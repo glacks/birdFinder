@@ -84,6 +84,23 @@ def build_model(num_classes: int) -> nn.Module:
     return model
 
 
+def format_english_label(class_name: str) -> str:
+    return class_name.replace("_", " ")
+
+
+def save_default_labels(artifacts_dir: Path, class_names: list[str]) -> None:
+    labels = {}
+    for class_name in class_names:
+        en = format_english_label(class_name)
+        labels[class_name] = {
+            "ko": en,
+            "en": en,
+            "display": f"{en} ({en})",
+        }
+    with (artifacts_dir / "class_labels.json").open("w", encoding="utf-8") as f:
+        json.dump(labels, f, ensure_ascii=False, indent=2)
+
+
 def run_epoch(
     loader: DataLoader,
     model: nn.Module,
@@ -191,6 +208,7 @@ def train(args: argparse.Namespace) -> None:
             torch.save(model.state_dict(), artifacts_dir / "best_model.pt")
             with (artifacts_dir / "class_names.json").open("w", encoding="utf-8") as f:
                 json.dump(class_names, f, ensure_ascii=False, indent=2)
+            save_default_labels(artifacts_dir, class_names)
             print(f"Saved best model. val_acc={val_acc:.4f}")
 
     print(f"Training complete. best_val_acc={best_acc:.4f}")

@@ -14,6 +14,7 @@
 │  ├─ app
 │  │  ├─ main.py
 │  │  └─ model.py
+│  ├─ fetch_inat_labels.py
 │  ├─ artifacts/            # 학습 결과 저장 위치 (생성됨)
 │  ├─ requirements.txt
 │  └─ train.py
@@ -49,8 +50,29 @@ python train.py \
 학습이 완료되면 아래 파일이 생성됩니다.
 - `backend/artifacts/best_model.pt`
 - `backend/artifacts/class_names.json`
+- `backend/artifacts/class_labels.json` (기본값: English(English))
 
-## 3) Backend API 실행
+## 3) iNaturalist 라벨 동기화 (한국어(영어))
+`data_raw` 클래스명을 기준으로 iNaturalist Taxa API를 조회하여
+`한국어(English)` 표시명을 생성합니다.
+
+```bash
+cd backend
+source .venv/bin/activate
+python fetch_inat_labels.py \
+  --dataset-dir ../data_raw \
+  --output artifacts/class_labels.json
+
+# 빠른 테스트(앞 20개 클래스만)
+python fetch_inat_labels.py \
+  --dataset-dir ../data_raw \
+  --output artifacts/class_labels.json \
+  --limit 20
+```
+
+이후 API 응답은 `display_name` 필드로 `한국어 (English)`를 반환합니다.
+
+## 4) Backend API 실행
 ```bash
 cd backend
 source .venv/bin/activate
@@ -62,7 +84,7 @@ uvicorn app.main:app --host 0.0.0.0 --port 8000 --reload
 curl http://localhost:8000/health
 ```
 
-## 4) Frontend 실행
+## 5) Frontend 실행
 ```bash
 cd frontend
 npm install
@@ -79,11 +101,19 @@ npm run dev
 {
   "top_prediction": {
     "class_name": "Barn_Swallow",
+    "display_name": "제비 (Barn Swallow)",
+    "ko_name": "제비",
+    "en_name": "Barn Swallow",
     "probability": 0.872341
   },
   "top_k": [
-    { "class_name": "Barn_Swallow", "probability": 0.872341 },
-    { "class_name": "Bank_Swallow", "probability": 0.045993 }
+    {
+      "class_name": "Barn_Swallow",
+      "display_name": "제비 (Barn Swallow)",
+      "ko_name": "제비",
+      "en_name": "Barn Swallow",
+      "probability": 0.872341
+    }
   ]
 }
 ```

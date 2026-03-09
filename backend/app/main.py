@@ -26,12 +26,13 @@ app.add_middleware(
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 model = None
 class_names = []
+class_labels = {}
 
 
 @app.on_event("startup")
 def startup_event() -> None:
-    global model, class_names
-    model, class_names = load_artifacts(ARTIFACTS_DIR, device)
+    global model, class_names, class_labels
+    model, class_names, class_labels = load_artifacts(ARTIFACTS_DIR, device)
 
 
 @app.get("/health")
@@ -61,6 +62,7 @@ async def predict(file: UploadFile = File(...)) -> dict[str, Any]:
         image=image,
         model=model,
         class_names=class_names,
+        labels=class_labels,
         device=device,
     )
     return result

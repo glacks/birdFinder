@@ -9,7 +9,7 @@ function App() {
 
   const topLabel = useMemo(() => {
     if (!result?.top_prediction) return "-";
-    const name = result.top_prediction.class_name;
+    const name = result.top_prediction.display_name || result.top_prediction.class_name;
     const prob = (result.top_prediction.probability * 100).toFixed(2);
     return `${name} (${prob}%)`;
   }, [result]);
@@ -91,7 +91,7 @@ function App() {
             <ul className="rank">
               {result.top_k.map((item) => (
                 <li key={item.class_name}>
-                  <span>{item.class_name}</span>
+                  <span>{item.display_name || item.class_name}</span>
                   <strong>{(item.probability * 100).toFixed(2)}%</strong>
                 </li>
               ))}
