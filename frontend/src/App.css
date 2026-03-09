@@ -1,0 +1,169 @@
+:root {
+  font-family: "Avenir Next", "Segoe UI", "Helvetica Neue", sans-serif;
+  color: #1f1f1f;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  background: radial-gradient(circle at 20% 20%, #fff6dd, #ffe9d1 35%, #ffd3b4 100%);
+}
+
+.page {
+  min-height: 100vh;
+  display: grid;
+  place-items: center;
+  padding: 24px;
+  position: relative;
+  overflow: hidden;
+}
+
+.bg-shape {
+  position: absolute;
+  width: 380px;
+  height: 380px;
+  border-radius: 999px;
+  filter: blur(36px);
+  opacity: 0.5;
+}
+
+.bg-shape-left {
+  background: #ff8f5a;
+  left: -100px;
+  top: -100px;
+}
+
+.bg-shape-right {
+  background: #ffc13d;
+  right: -120px;
+  bottom: -120px;
+}
+
+.card {
+  width: min(760px, 95vw);
+  background: rgba(255, 255, 255, 0.9);
+  border: 1px solid rgba(255, 255, 255, 0.6);
+  border-radius: 20px;
+  padding: 28px;
+  box-shadow: 0 12px 45px rgba(0, 0, 0, 0.12);
+  backdrop-filter: blur(6px);
+  animation: riseIn 420ms ease-out;
+}
+
+h1 {
+  margin: 0;
+  font-size: clamp(28px, 4vw, 40px);
+  letter-spacing: 0.02em;
+}
+
+.sub {
+  margin-top: 8px;
+  color: #4f4f4f;
+}
+
+.form {
+  margin-top: 20px;
+  display: flex;
+  gap: 12px;
+  flex-wrap: wrap;
+}
+
+.filebox {
+  flex: 1;
+  min-width: 220px;
+  border: 1px dashed #d08d37;
+  border-radius: 12px;
+  padding: 10px 12px;
+  background: #fff6e5;
+  cursor: pointer;
+}
+
+.filebox input {
+  display: none;
+}
+
+button {
+  border: none;
+  border-radius: 12px;
+  background: linear-gradient(135deg, #ff7e39, #f7b733);
+  color: #fff;
+  padding: 10px 18px;
+  font-weight: 700;
+  cursor: pointer;
+}
+
+button:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+}
+
+.result {
+  margin-top: 24px;
+}
+
+h2 {
+  margin: 0;
+  font-size: 18px;
+}
+
+.top1 {
+  margin: 6px 0 14px;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.preview-wrap {
+  margin-bottom: 14px;
+}
+
+.preview {
+  max-width: 320px;
+  width: 100%;
+  border-radius: 12px;
+  border: 1px solid #e8d6bf;
+}
+
+.rank {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  display: grid;
+  gap: 8px;
+}
+
+.rank li {
+  display: flex;
+  justify-content: space-between;
+  border-bottom: 1px solid #f0e3cf;
+  padding-bottom: 6px;
+}
+
+.error {
+  color: #c12f2f;
+  font-weight: 600;
+}
+
+@keyframes riseIn {
+  from {
+    opacity: 0;
+    transform: translateY(16px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@media (max-width: 640px) {
+  .card {
+    padding: 20px;
+  }
+
+  .top1 {
+    font-size: 18px;
+  }
+}

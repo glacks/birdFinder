@@ -1,1 +1,11 @@
 data_raw/
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+node_modules/
+dist/
+build/
+artifacts/
+checkpoints/
