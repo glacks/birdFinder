@@ -44,7 +44,8 @@ python train.py \
   --artifacts-dir artifacts \
   --epochs 8 \
   --batch-size 32 \
-  --workers 4
+  --workers 4 \
+  --device cuda
 ```
 
 학습이 완료되면 아래 파일이 생성됩니다.

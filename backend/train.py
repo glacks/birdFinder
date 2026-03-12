@@ -1,7 +1,9 @@
 from __future__ import annotations
 
 import argparse
+import ctypes
 import json
+import platform
 import random
 from pathlib import Path
 
@@ -12,6 +14,21 @@ from torchvision import datasets, models, transforms
 from tqdm import tqdm
 
 IMAGE_SIZE = 224
+
+
+def bootstrap_wsl_cuda() -> None:
+    if platform.system() != "Linux":
+        return
+
+    cuda_driver = Path("/usr/lib/wsl/lib/libcuda.so.1")
+    if not cuda_driver.exists():
+        return
+
+    try:
+        ctypes.CDLL(str(cuda_driver), mode=ctypes.RTLD_GLOBAL)
+    except OSError:
+        # Fall back to the default loader path if the WSL driver shim is unavailable.
+        pass
 
 
 def make_transforms() -> tuple[transforms.Compose, transforms.Compose]:
@@ -158,8 +175,17 @@ def run_epoch(
 def train(args: argparse.Namespace) -> None:
     torch.manual_seed(args.seed)
     random.seed(args.seed)
+    bootstrap_wsl_cuda()
 
-    device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+    if args.device == "cuda" and not torch.cuda.is_available():
+        raise RuntimeError(
+            "GPU training is required but CUDA is not available. "
+            "Check NVIDIA driver/WSL CUDA runtime and retry."
+        )
+    if args.device == "cpu":
+        device = torch.device("cpu")
+    else:
+        device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
     print(f"Using device: {device}")
 
     train_loader, val_loader, class_names = make_loaders(
@@ -224,6 +250,7 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--lr", type=float, default=3e-4)
     parser.add_argument("--val-ratio", type=float, default=0.2)
     parser.add_argument("--seed", type=int, default=42)
+    parser.add_argument("--device", choices=["cuda", "cpu", "auto"], default="cuda")
     return parser.parse_args()
 
 
