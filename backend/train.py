@@ -36,8 +36,8 @@ def make_transforms() -> tuple[transforms.Compose, transforms.Compose]:
         [
             transforms.Resize((IMAGE_SIZE, IMAGE_SIZE)),
             transforms.RandomHorizontalFlip(p=0.5),
-            transforms.RandomRotation(12),
-            transforms.ColorJitter(brightness=0.2, contrast=0.2, saturation=0.2),
+            transforms.RandomRotation(10),
+            transforms.ColorJitter(brightness=0.15, contrast=0.15, saturation=0.15),
             transforms.ToTensor(),
             transforms.Normalize(mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225]),
         ]
@@ -65,11 +65,9 @@ def make_loaders(
 
     train_ds_full = datasets.ImageFolder(root=dataset_dir, transform=train_tf)
     val_ds_full = datasets.ImageFolder(root=dataset_dir, transform=val_tf)
-
     total = len(train_ds_full)
     indices = list(range(total))
     random.Random(seed).shuffle(indices)
-
     val_count = max(1, int(total * val_ratio))
     train_indices = indices[val_count:]
     val_indices = indices[:val_count]
@@ -83,6 +81,7 @@ def make_loaders(
         shuffle=True,
         num_workers=workers,
         pin_memory=True,
+        persistent_workers=workers > 0,
     )
     val_loader = DataLoader(
         val_ds,
@@ -90,6 +89,7 @@ def make_loaders(
         shuffle=False,
         num_workers=workers,
         pin_memory=True,
+        persistent_workers=workers > 0,
     )
     return train_loader, val_loader, class_names
 
@@ -97,7 +97,10 @@ def make_loaders(
 def build_model(num_classes: int) -> nn.Module:
     model = models.resnet18(weights=models.ResNet18_Weights.DEFAULT)
     in_features = model.fc.in_features
-    model.fc = nn.Linear(in_features, num_classes)
+    model.fc = nn.Sequential(
+        nn.Dropout(p=0.2),
+        nn.Linear(in_features, num_classes),
+    )
     return model
 
 
@@ -123,6 +126,7 @@ def run_epoch(
     model: nn.Module,
     loss_fn: nn.Module,
     optimizer: torch.optim.Optimizer | None,
+    scheduler: torch.optim.lr_scheduler.LRScheduler | None,
     device: torch.device,
     scaler: torch.amp.GradScaler | None,
 ) -> tuple[float, float]:
@@ -195,10 +199,12 @@ def train(args: argparse.Namespace) -> None:
         workers=args.workers,
         seed=args.seed,
     )
+    print(f"Dataset split: train={len(train_loader.dataset)} val={len(val_loader.dataset)} classes={len(class_names)}")
 
     model = build_model(len(class_names)).to(device)
-    loss_fn = nn.CrossEntropyLoss()
-    optimizer = torch.optim.AdamW(model.parameters(), lr=args.lr, weight_decay=1e-4)
+    loss_fn = nn.CrossEntropyLoss(label_smoothing=args.label_smoothing)
+    optimizer = torch.optim.AdamW(model.parameters(), lr=args.lr, weight_decay=args.weight_decay)
+    scheduler = torch.optim.lr_scheduler.CosineAnnealingLR(optimizer, T_max=args.epochs)
     scaler = torch.amp.GradScaler("cuda") if device.type == "cuda" else None
 
     artifacts_dir = Path(args.artifacts_dir)
@@ -211,6 +217,7 @@ def train(args: argparse.Namespace) -> None:
             model=model,
             loss_fn=loss_fn,
             optimizer=optimizer,
+            scheduler=scheduler,
             device=device,
             scaler=scaler,
         )
@@ -219,6 +226,7 @@ def train(args: argparse.Namespace) -> None:
             model=model,
             loss_fn=loss_fn,
             optimizer=None,
+            scheduler=None,
             device=device,
             scaler=None,
         )
@@ -228,6 +236,9 @@ def train(args: argparse.Namespace) -> None:
             f"train_loss={train_loss:.4f} train_acc={train_acc:.4f} "
             f"val_loss={val_loss:.4f} val_acc={val_acc:.4f}"
         )
+        print(f"lr={optimizer.param_groups[0]['lr']:.6f}")
+        if scheduler is not None:
+            scheduler.step()
 
         if val_acc > best_acc:
             best_acc = val_acc
@@ -244,10 +255,12 @@ def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(description="Train bird classifier with PyTorch")
     parser.add_argument("--dataset-dir", default="../data_raw")
     parser.add_argument("--artifacts-dir", default="artifacts")
-    parser.add_argument("--epochs", type=int, default=8)
+    parser.add_argument("--epochs", type=int, default=12)
     parser.add_argument("--batch-size", type=int, default=32)
     parser.add_argument("--workers", type=int, default=4)
     parser.add_argument("--lr", type=float, default=3e-4)
+    parser.add_argument("--weight-decay", type=float, default=5e-4)
+    parser.add_argument("--label-smoothing", type=float, default=0.05)
     parser.add_argument("--val-ratio", type=float, default=0.2)
     parser.add_argument("--seed", type=int, default=42)
     parser.add_argument("--device", choices=["cuda", "cpu", "auto"], default="cuda")

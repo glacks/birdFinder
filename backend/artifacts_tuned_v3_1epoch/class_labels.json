@@ -1,0 +1,2402 @@
+{
+  "Aleutian_Tern": {
+    "ko": "Aleutian Tern",
+    "en": "Aleutian Tern",
+    "display": "Aleutian Tern (Aleutian Tern)"
+  },
+  "Alpine_Accentor": {
+    "ko": "Alpine Accentor",
+    "en": "Alpine Accentor",
+    "display": "Alpine Accentor (Alpine Accentor)"
+  },
+  "American_Pipit": {
+    "ko": "American Pipit",
+    "en": "American Pipit",
+    "display": "American Pipit (American Pipit)"
+  },
+  "American_Wigeon": {
+    "ko": "American Wigeon",
+    "en": "American Wigeon",
+    "display": "American Wigeon (American Wigeon)"
+  },
+  "American_×_Eurasian_Wigeon": {
+    "ko": "American × Eurasian Wigeon",
+    "en": "American × Eurasian Wigeon",
+    "display": "American × Eurasian Wigeon (American × Eurasian Wigeon)"
+  },
+  "Amur_Falcon": {
+    "ko": "Amur Falcon",
+    "en": "Amur Falcon",
+    "display": "Amur Falcon (Amur Falcon)"
+  },
+  "Amur_Paradise-Flycatcher": {
+    "ko": "Amur Paradise-Flycatcher",
+    "en": "Amur Paradise-Flycatcher",
+    "display": "Amur Paradise-Flycatcher (Amur Paradise-Flycatcher)"
+  },
+  "Amur_Stonechat": {
+    "ko": "Amur Stonechat",
+    "en": "Amur Stonechat",
+    "display": "Amur Stonechat (Amur Stonechat)"
+  },
+  "Ancient_Murrelet": {
+    "ko": "Ancient Murrelet",
+    "en": "Ancient Murrelet",
+    "display": "Ancient Murrelet (Ancient Murrelet)"
+  },
+  "Arctic_Loon": {
+    "ko": "Arctic Loon",
+    "en": "Arctic Loon",
+    "display": "Arctic Loon (Arctic Loon)"
+  },
+  "Arctic_Warbler": {
+    "ko": "Arctic Warbler",
+    "en": "Arctic Warbler",
+    "display": "Arctic Warbler (Arctic Warbler)"
+  },
+  "Ashy_Drongo": {
+    "ko": "Ashy Drongo",
+    "en": "Ashy Drongo",
+    "display": "Ashy Drongo (Ashy Drongo)"
+  },
+  "Ashy_Minivet": {
+    "ko": "Ashy Minivet",
+    "en": "Ashy Minivet",
+    "display": "Ashy Minivet (Ashy Minivet)"
+  },
+  "Asian_Brown_Flycatcher": {
+    "ko": "Asian Brown Flycatcher",
+    "en": "Asian Brown Flycatcher",
+    "display": "Asian Brown Flycatcher (Asian Brown Flycatcher)"
+  },
+  "Asian_Dowitcher": {
+    "ko": "Asian Dowitcher",
+    "en": "Asian Dowitcher",
+    "display": "Asian Dowitcher (Asian Dowitcher)"
+  },
+  "Asian_House_Martin": {
+    "ko": "Asian House Martin",
+    "en": "Asian House Martin",
+    "display": "Asian House Martin (Asian House Martin)"
+  },
+  "Asian_Koel": {
+    "ko": "Asian Koel",
+    "en": "Asian Koel",
+    "display": "Asian Koel (Asian Koel)"
+  },
+  "Asian_Rosy-Finch": {
+    "ko": "Asian Rosy-Finch",
+    "en": "Asian Rosy-Finch",
+    "display": "Asian Rosy-Finch (Asian Rosy-Finch)"
+  },
+  "Asian_Short-toed_Lark": {
+    "ko": "Asian Short-toed Lark",
+    "en": "Asian Short-toed Lark",
+    "display": "Asian Short-toed Lark (Asian Short-toed Lark)"
+  },
+  "Asian_Stubtail": {
+    "ko": "Asian Stubtail",
+    "en": "Asian Stubtail",
+    "display": "Asian Stubtail (Asian Stubtail)"
+  },
+  "Asian_Tit": {
+    "ko": "Asian Tit",
+    "en": "Asian Tit",
+    "display": "Asian Tit (Asian Tit)"
+  },
+  "Azure-winged_Magpie": {
+    "ko": "Azure-winged Magpie",
+    "en": "Azure-winged Magpie",
+    "display": "Azure-winged Magpie (Azure-winged Magpie)"
+  },
+  "Baer's_Pochard": {
+    "ko": "Baer's Pochard",
+    "en": "Baer's Pochard",
+    "display": "Baer's Pochard (Baer's Pochard)"
+  },
+  "Baer's_Pochard_×_Ferruginous_Duck": {
+    "ko": "Baer's Pochard × Ferruginous Duck",
+    "en": "Baer's Pochard × Ferruginous Duck",
+    "display": "Baer's Pochard × Ferruginous Duck (Baer's Pochard × Ferruginous Duck)"
+  },
+  "Baikal_Bush_Warbler": {
+    "ko": "Baikal Bush Warbler",
+    "en": "Baikal Bush Warbler",
+    "display": "Baikal Bush Warbler (Baikal Bush Warbler)"
+  },
+  "Baikal_Teal": {
+    "ko": "Baikal Teal",
+    "en": "Baikal Teal",
+    "display": "Baikal Teal (Baikal Teal)"
+  },
+  "Baillon's_Crake": {
+    "ko": "Baillon's Crake",
+    "en": "Baillon's Crake",
+    "display": "Baillon's Crake (Baillon's Crake)"
+  },
+  "Band-bellied_Crake": {
+    "ko": "Band-bellied Crake",
+    "en": "Band-bellied Crake",
+    "display": "Band-bellied Crake (Band-bellied Crake)"
+  },
+  "Bank_Swallow": {
+    "ko": "Bank Swallow",
+    "en": "Bank Swallow",
+    "display": "Bank Swallow (Bank Swallow)"
+  },
+  "Bar-headed_Goose": {
+    "ko": "Bar-headed Goose",
+    "en": "Bar-headed Goose",
+    "display": "Bar-headed Goose (Bar-headed Goose)"
+  },
+  "Bar-tailed_Godwit": {
+    "ko": "Bar-tailed Godwit",
+    "en": "Bar-tailed Godwit",
+    "display": "Bar-tailed Godwit (Bar-tailed Godwit)"
+  },
+  "Barn_Swallow": {
+    "ko": "Barn Swallow",
+    "en": "Barn Swallow",
+    "display": "Barn Swallow (Barn Swallow)"
+  },
+  "Bearded_Vulture": {
+    "ko": "Bearded Vulture",
+    "en": "Bearded Vulture",
+    "display": "Bearded Vulture (Bearded Vulture)"
+  },
+  "Black-bellied_Plover": {
+    "ko": "Black-bellied Plover",
+    "en": "Black-bellied Plover",
+    "display": "Black-bellied Plover (Black-bellied Plover)"
+  },
+  "Black-browed_Reed_Warbler": {
+    "ko": "Black-browed Reed Warbler",
+    "en": "Black-browed Reed Warbler",
+    "display": "Black-browed Reed Warbler (Black-browed Reed Warbler)"
+  },
+  "Black-capped_Kingfisher": {
+    "ko": "Black-capped Kingfisher",
+    "en": "Black-capped Kingfisher",
+    "display": "Black-capped Kingfisher (Black-capped Kingfisher)"
+  },
+  "Black-crowned_Night_Heron": {
+    "ko": "Black-crowned Night Heron",
+    "en": "Black-crowned Night Heron",
+    "display": "Black-crowned Night Heron (Black-crowned Night Heron)"
+  },
+  "Black-faced_Bunting": {
+    "ko": "Black-faced Bunting",
+    "en": "Black-faced Bunting",
+    "display": "Black-faced Bunting (Black-faced Bunting)"
+  },
+  "Black-faced_Spoonbill": {
+    "ko": "Black-faced Spoonbill",
+    "en": "Black-faced Spoonbill",
+    "display": "Black-faced Spoonbill (Black-faced Spoonbill)"
+  },
+  "Black-headed_Bunting": {
+    "ko": "Black-headed Bunting",
+    "en": "Black-headed Bunting",
+    "display": "Black-headed Bunting (Black-headed Bunting)"
+  },
+  "Black-headed_Gull": {
+    "ko": "Black-headed Gull",
+    "en": "Black-headed Gull",
+    "display": "Black-headed Gull (Black-headed Gull)"
+  },
+  "Black-legged_Kittiwake": {
+    "ko": "Black-legged Kittiwake",
+    "en": "Black-legged Kittiwake",
+    "display": "Black-legged Kittiwake (Black-legged Kittiwake)"
+  },
+  "Black-naped_Oriole": {
+    "ko": "Black-naped Oriole",
+    "en": "Black-naped Oriole",
+    "display": "Black-naped Oriole (Black-naped Oriole)"
+  },
+  "Black-tailed_Godwit": {
+    "ko": "Black-tailed Godwit",
+    "en": "Black-tailed Godwit",
+    "display": "Black-tailed Godwit (Black-tailed Godwit)"
+  },
+  "Black-tailed_Gull": {
+    "ko": "Black-tailed Gull",
+    "en": "Black-tailed Gull",
+    "display": "Black-tailed Gull (Black-tailed Gull)"
+  },
+  "Black-winged_Cuckooshrike": {
+    "ko": "Black-winged Cuckooshrike",
+    "en": "Black-winged Cuckooshrike",
+    "display": "Black-winged Cuckooshrike (Black-winged Cuckooshrike)"
+  },
+  "Black-winged_Kite": {
+    "ko": "Black-winged Kite",
+    "en": "Black-winged Kite",
+    "display": "Black-winged Kite (Black-winged Kite)"
+  },
+  "Black-winged_Stilt": {
+    "ko": "Black-winged Stilt",
+    "en": "Black-winged Stilt",
+    "display": "Black-winged Stilt (Black-winged Stilt)"
+  },
+  "Black_Drongo": {
+    "ko": "Black Drongo",
+    "en": "Black Drongo",
+    "display": "Black Drongo (Black Drongo)"
+  },
+  "Black_Kite": {
+    "ko": "Black Kite",
+    "en": "Black Kite",
+    "display": "Black Kite (Black Kite)"
+  },
+  "Black_Paradise-Flycatcher": {
+    "ko": "Black Paradise-Flycatcher",
+    "en": "Black Paradise-Flycatcher",
+    "display": "Black Paradise-Flycatcher (Black Paradise-Flycatcher)"
+  },
+  "Black_Redstart": {
+    "ko": "Black Redstart",
+    "en": "Black Redstart",
+    "display": "Black Redstart (Black Redstart)"
+  },
+  "Black_Scoter": {
+    "ko": "Black Scoter",
+    "en": "Black Scoter",
+    "display": "Black Scoter (Black Scoter)"
+  },
+  "Black_Stork": {
+    "ko": "Black Stork",
+    "en": "Black Stork",
+    "display": "Black Stork (Black Stork)"
+  },
+  "Black_Swan": {
+    "ko": "Black Swan",
+    "en": "Black Swan",
+    "display": "Black Swan (Black Swan)"
+  },
+  "Black_Tern": {
+    "ko": "Black Tern",
+    "en": "Black Tern",
+    "display": "Black Tern (Black Tern)"
+  },
+  "Black_Wood-Pigeon": {
+    "ko": "Black Wood-Pigeon",
+    "en": "Black Wood-Pigeon",
+    "display": "Black Wood-Pigeon (Black Wood-Pigeon)"
+  },
+  "Black_Woodpecker": {
+    "ko": "Black Woodpecker",
+    "en": "Black Woodpecker",
+    "display": "Black Woodpecker (Black Woodpecker)"
+  },
+  "Blue-and-white_Flycatcher": {
+    "ko": "Blue-and-white Flycatcher",
+    "en": "Blue-and-white Flycatcher",
+    "display": "Blue-and-white Flycatcher (Blue-and-white Flycatcher)"
+  },
+  "Blue_Rock-Thrush": {
+    "ko": "Blue Rock-Thrush",
+    "en": "Blue Rock-Thrush",
+    "display": "Blue Rock-Thrush (Blue Rock-Thrush)"
+  },
+  "Bluethroat": {
+    "ko": "Bluethroat",
+    "en": "Bluethroat",
+    "display": "Bluethroat (Bluethroat)"
+  },
+  "Blyth's_Pipit": {
+    "ko": "Blyth's Pipit",
+    "en": "Blyth's Pipit",
+    "display": "Blyth's Pipit (Blyth's Pipit)"
+  },
+  "Bohemian_Waxwing": {
+    "ko": "Bohemian Waxwing",
+    "en": "Bohemian Waxwing",
+    "display": "Bohemian Waxwing (Bohemian Waxwing)"
+  },
+  "Brahminy_Kite": {
+    "ko": "Brahminy Kite",
+    "en": "Brahminy Kite",
+    "display": "Brahminy Kite (Brahminy Kite)"
+  },
+  "Brambling": {
+    "ko": "Brambling",
+    "en": "Brambling",
+    "display": "Brambling (Brambling)"
+  },
+  "Brant": {
+    "ko": "Brant",
+    "en": "Brant",
+    "display": "Brant (Brant)"
+  },
+  "Broad-billed_Sandpiper": {
+    "ko": "Broad-billed Sandpiper",
+    "en": "Broad-billed Sandpiper",
+    "display": "Broad-billed Sandpiper (Broad-billed Sandpiper)"
+  },
+  "Brown-cheeked_Rail": {
+    "ko": "Brown-cheeked Rail",
+    "en": "Brown-cheeked Rail",
+    "display": "Brown-cheeked Rail (Brown-cheeked Rail)"
+  },
+  "Brown-eared_Bulbul": {
+    "ko": "Brown-eared Bulbul",
+    "en": "Brown-eared Bulbul",
+    "display": "Brown-eared Bulbul (Brown-eared Bulbul)"
+  },
+  "Brown-headed_Gull": {
+    "ko": "Brown-headed Gull",
+    "en": "Brown-headed Gull",
+    "display": "Brown-headed Gull (Brown-headed Gull)"
+  },
+  "Brown-headed_Thrush": {
+    "ko": "Brown-headed Thrush",
+    "en": "Brown-headed Thrush",
+    "display": "Brown-headed Thrush (Brown-headed Thrush)"
+  },
+  "Brown_Booby": {
+    "ko": "Brown Booby",
+    "en": "Brown Booby",
+    "display": "Brown Booby (Brown Booby)"
+  },
+  "Brown_Dipper": {
+    "ko": "Brown Dipper",
+    "en": "Brown Dipper",
+    "display": "Brown Dipper (Brown Dipper)"
+  },
+  "Brown_Shrike": {
+    "ko": "Brown Shrike",
+    "en": "Brown Shrike",
+    "display": "Brown Shrike (Brown Shrike)"
+  },
+  "Budgerigar": {
+    "ko": "Budgerigar",
+    "en": "Budgerigar",
+    "display": "Budgerigar (Budgerigar)"
+  },
+  "Bufflehead": {
+    "ko": "Bufflehead",
+    "en": "Bufflehead",
+    "display": "Bufflehead (Bufflehead)"
+  },
+  "Bull-headed_Shrike": {
+    "ko": "Bull-headed Shrike",
+    "en": "Bull-headed Shrike",
+    "display": "Bull-headed Shrike (Bull-headed Shrike)"
+  },
+  "Cackling_Goose": {
+    "ko": "Cackling Goose",
+    "en": "Cackling Goose",
+    "display": "Cackling Goose (Cackling Goose)"
+  },
+  "Canvasback": {
+    "ko": "Canvasback",
+    "en": "Canvasback",
+    "display": "Canvasback (Canvasback)"
+  },
+  "Carrion_Crow": {
+    "ko": "Carrion Crow",
+    "en": "Carrion Crow",
+    "display": "Carrion Crow (Carrion Crow)"
+  },
+  "Caspian_Tern": {
+    "ko": "Caspian Tern",
+    "en": "Caspian Tern",
+    "display": "Caspian Tern (Caspian Tern)"
+  },
+  "Chestnut-cheeked_Starling": {
+    "ko": "Chestnut-cheeked Starling",
+    "en": "Chestnut-cheeked Starling",
+    "display": "Chestnut-cheeked Starling (Chestnut-cheeked Starling)"
+  },
+  "Chestnut-eared_Bunting": {
+    "ko": "Chestnut-eared Bunting",
+    "en": "Chestnut-eared Bunting",
+    "display": "Chestnut-eared Bunting (Chestnut-eared Bunting)"
+  },
+  "Chestnut-flanked_White-eye": {
+    "ko": "Chestnut-flanked White-eye",
+    "en": "Chestnut-flanked White-eye",
+    "display": "Chestnut-flanked White-eye (Chestnut-flanked White-eye)"
+  },
+  "Chestnut-winged_Cuckoo": {
+    "ko": "Chestnut-winged Cuckoo",
+    "en": "Chestnut-winged Cuckoo",
+    "display": "Chestnut-winged Cuckoo (Chestnut-winged Cuckoo)"
+  },
+  "Chestnut_Bunting": {
+    "ko": "Chestnut Bunting",
+    "en": "Chestnut Bunting",
+    "display": "Chestnut Bunting (Chestnut Bunting)"
+  },
+  "Chinese_Blackbird": {
+    "ko": "Chinese Blackbird",
+    "en": "Chinese Blackbird",
+    "display": "Chinese Blackbird (Chinese Blackbird)"
+  },
+  "Chinese_Crested_Tern": {
+    "ko": "Chinese Crested Tern",
+    "en": "Chinese Crested Tern",
+    "display": "Chinese Crested Tern (Chinese Crested Tern)"
+  },
+  "Chinese_Egret": {
+    "ko": "Chinese Egret",
+    "en": "Chinese Egret",
+    "display": "Chinese Egret (Chinese Egret)"
+  },
+  "Chinese_Grey_Shrike": {
+    "ko": "Chinese Grey Shrike",
+    "en": "Chinese Grey Shrike",
+    "display": "Chinese Grey Shrike (Chinese Grey Shrike)"
+  },
+  "Chinese_Leaf_Warbler": {
+    "ko": "Chinese Leaf Warbler",
+    "en": "Chinese Leaf Warbler",
+    "display": "Chinese Leaf Warbler (Chinese Leaf Warbler)"
+  },
+  "Chinese_Penduline-Tit": {
+    "ko": "Chinese Penduline-Tit",
+    "en": "Chinese Penduline-Tit",
+    "display": "Chinese Penduline-Tit (Chinese Penduline-Tit)"
+  },
+  "Chinese_Pond-Heron": {
+    "ko": "Chinese Pond-Heron",
+    "en": "Chinese Pond-Heron",
+    "display": "Chinese Pond-Heron (Chinese Pond-Heron)"
+  },
+  "Chinese_Sparrowhawk": {
+    "ko": "Chinese Sparrowhawk",
+    "en": "Chinese Sparrowhawk",
+    "display": "Chinese Sparrowhawk (Chinese Sparrowhawk)"
+  },
+  "Chinese_Thrush": {
+    "ko": "Chinese Thrush",
+    "en": "Chinese Thrush",
+    "display": "Chinese Thrush (Chinese Thrush)"
+  },
+  "Cinereous_Vulture": {
+    "ko": "Cinereous Vulture",
+    "en": "Cinereous Vulture",
+    "display": "Cinereous Vulture (Cinereous Vulture)"
+  },
+  "Citrine_Wagtail": {
+    "ko": "Citrine Wagtail",
+    "en": "Citrine Wagtail",
+    "display": "Citrine Wagtail (Citrine Wagtail)"
+  },
+  "Coal_Tit": {
+    "ko": "Coal Tit",
+    "en": "Coal Tit",
+    "display": "Coal Tit (Coal Tit)"
+  },
+  "Collared_Crow": {
+    "ko": "Collared Crow",
+    "en": "Collared Crow",
+    "display": "Collared Crow (Collared Crow)"
+  },
+  "Commander_Gull": {
+    "ko": "Commander Gull",
+    "en": "Commander Gull",
+    "display": "Commander Gull (Commander Gull)"
+  },
+  "Common_Chiffchaff": {
+    "ko": "Common Chiffchaff",
+    "en": "Common Chiffchaff",
+    "display": "Common Chiffchaff (Common Chiffchaff)"
+  },
+  "Common_Crane": {
+    "ko": "Common Crane",
+    "en": "Common Crane",
+    "display": "Common Crane (Common Crane)"
+  },
+  "Common_Cuckoo": {
+    "ko": "Common Cuckoo",
+    "en": "Common Cuckoo",
+    "display": "Common Cuckoo (Common Cuckoo)"
+  },
+  "Common_Goldeneye": {
+    "ko": "Common Goldeneye",
+    "en": "Common Goldeneye",
+    "display": "Common Goldeneye (Common Goldeneye)"
+  },
+  "Common_Greenshank": {
+    "ko": "Common Greenshank",
+    "en": "Common Greenshank",
+    "display": "Common Greenshank (Common Greenshank)"
+  },
+  "Common_Gull": {
+    "ko": "Common Gull",
+    "en": "Common Gull",
+    "display": "Common Gull (Common Gull)"
+  },
+  "Common_Hoopoe": {
+    "ko": "Common Hoopoe",
+    "en": "Common Hoopoe",
+    "display": "Common Hoopoe (Common Hoopoe)"
+  },
+  "Common_Kingfisher": {
+    "ko": "Common Kingfisher",
+    "en": "Common Kingfisher",
+    "display": "Common Kingfisher (Common Kingfisher)"
+  },
+  "Common_Merganser": {
+    "ko": "Common Merganser",
+    "en": "Common Merganser",
+    "display": "Common Merganser (Common Merganser)"
+  },
+  "Common_Moorhen": {
+    "ko": "Common Moorhen",
+    "en": "Common Moorhen",
+    "display": "Common Moorhen (Common Moorhen)"
+  },
+  "Common_Murre": {
+    "ko": "Common Murre",
+    "en": "Common Murre",
+    "display": "Common Murre (Common Murre)"
+  },
+  "Common_Myna": {
+    "ko": "Common Myna",
+    "en": "Common Myna",
+    "display": "Common Myna (Common Myna)"
+  },
+  "Common_Pochard": {
+    "ko": "Common Pochard",
+    "en": "Common Pochard",
+    "display": "Common Pochard (Common Pochard)"
+  },
+  "Common_Redshank": {
+    "ko": "Common Redshank",
+    "en": "Common Redshank",
+    "display": "Common Redshank (Common Redshank)"
+  },
+  "Common_Ringed_Plover": {
+    "ko": "Common Ringed Plover",
+    "en": "Common Ringed Plover",
+    "display": "Common Ringed Plover (Common Ringed Plover)"
+  },
+  "Common_Rosefinch": {
+    "ko": "Common Rosefinch",
+    "en": "Common Rosefinch",
+    "display": "Common Rosefinch (Common Rosefinch)"
+  },
+  "Common_Sandpiper": {
+    "ko": "Common Sandpiper",
+    "en": "Common Sandpiper",
+    "display": "Common Sandpiper (Common Sandpiper)"
+  },
+  "Common_Shelduck": {
+    "ko": "Common Shelduck",
+    "en": "Common Shelduck",
+    "display": "Common Shelduck (Common Shelduck)"
+  },
+  "Common_Snipe": {
+    "ko": "Common Snipe",
+    "en": "Common Snipe",
+    "display": "Common Snipe (Common Snipe)"
+  },
+  "Common_Tern": {
+    "ko": "Common Tern",
+    "en": "Common Tern",
+    "display": "Common Tern (Common Tern)"
+  },
+  "Common_×_Hooded_Crane": {
+    "ko": "Common × Hooded Crane",
+    "en": "Common × Hooded Crane",
+    "display": "Common × Hooded Crane (Common × Hooded Crane)"
+  },
+  "Cotton_Pygmy-Goose": {
+    "ko": "Cotton Pygmy-Goose",
+    "en": "Cotton Pygmy-Goose",
+    "display": "Cotton Pygmy-Goose (Cotton Pygmy-Goose)"
+  },
+  "Crested_Ibis": {
+    "ko": "Crested Ibis",
+    "en": "Crested Ibis",
+    "display": "Crested Ibis (Crested Ibis)"
+  },
+  "Crested_Kingfisher": {
+    "ko": "Crested Kingfisher",
+    "en": "Crested Kingfisher",
+    "display": "Crested Kingfisher (Crested Kingfisher)"
+  },
+  "Crested_Lark": {
+    "ko": "Crested Lark",
+    "en": "Crested Lark",
+    "display": "Crested Lark (Crested Lark)"
+  },
+  "Crow-billed_Drongo": {
+    "ko": "Crow-billed Drongo",
+    "en": "Crow-billed Drongo",
+    "display": "Crow-billed Drongo (Crow-billed Drongo)"
+  },
+  "Curlew_Sandpiper": {
+    "ko": "Curlew Sandpiper",
+    "en": "Curlew Sandpiper",
+    "display": "Curlew Sandpiper (Curlew Sandpiper)"
+  },
+  "Dark-sided_Flycatcher": {
+    "ko": "Dark-sided Flycatcher",
+    "en": "Dark-sided Flycatcher",
+    "display": "Dark-sided Flycatcher (Dark-sided Flycatcher)"
+  },
+  "Daurian_Jackdaw": {
+    "ko": "Daurian Jackdaw",
+    "en": "Daurian Jackdaw",
+    "display": "Daurian Jackdaw (Daurian Jackdaw)"
+  },
+  "Daurian_Redstart": {
+    "ko": "Daurian Redstart",
+    "en": "Daurian Redstart",
+    "display": "Daurian Redstart (Daurian Redstart)"
+  },
+  "Daurian_Starling": {
+    "ko": "Daurian Starling",
+    "en": "Daurian Starling",
+    "display": "Daurian Starling (Daurian Starling)"
+  },
+  "Demoiselle_Crane": {
+    "ko": "Demoiselle Crane",
+    "en": "Demoiselle Crane",
+    "display": "Demoiselle Crane (Demoiselle Crane)"
+  },
+  "Dollarbird": {
+    "ko": "Dollarbird",
+    "en": "Dollarbird",
+    "display": "Dollarbird (Dollarbird)"
+  },
+  "Dunlin": {
+    "ko": "Dunlin",
+    "en": "Dunlin",
+    "display": "Dunlin (Dunlin)"
+  },
+  "Dusky_Thrush": {
+    "ko": "Dusky Thrush",
+    "en": "Dusky Thrush",
+    "display": "Dusky Thrush (Dusky Thrush)"
+  },
+  "Dusky_Warbler": {
+    "ko": "Dusky Warbler",
+    "en": "Dusky Warbler",
+    "display": "Dusky Warbler (Dusky Warbler)"
+  },
+  "Dusky_×_Naumann's_Thrush": {
+    "ko": "Dusky × Naumann's Thrush",
+    "en": "Dusky × Naumann's Thrush",
+    "display": "Dusky × Naumann's Thrush (Dusky × Naumann's Thrush)"
+  },
+  "Eared_Grebe": {
+    "ko": "Eared Grebe",
+    "en": "Eared Grebe",
+    "display": "Eared Grebe (Eared Grebe)"
+  },
+  "Eastern_Buzzard": {
+    "ko": "Eastern Buzzard",
+    "en": "Eastern Buzzard",
+    "display": "Eastern Buzzard (Eastern Buzzard)"
+  },
+  "Eastern_Cattle-Egret": {
+    "ko": "Eastern Cattle-Egret",
+    "en": "Eastern Cattle-Egret",
+    "display": "Eastern Cattle-Egret (Eastern Cattle-Egret)"
+  },
+  "Eastern_Crowned_Warbler": {
+    "ko": "Eastern Crowned Warbler",
+    "en": "Eastern Crowned Warbler",
+    "display": "Eastern Crowned Warbler (Eastern Crowned Warbler)"
+  },
+  "Eastern_Marsh_Harrier": {
+    "ko": "Eastern Marsh Harrier",
+    "en": "Eastern Marsh Harrier",
+    "display": "Eastern Marsh Harrier (Eastern Marsh Harrier)"
+  },
+  "Eastern_Red-rumped_Swallow": {
+    "ko": "Eastern Red-rumped Swallow",
+    "en": "Eastern Red-rumped Swallow",
+    "display": "Eastern Red-rumped Swallow (Eastern Red-rumped Swallow)"
+  },
+  "Eastern_Spot-billed_Duck": {
+    "ko": "Eastern Spot-billed Duck",
+    "en": "Eastern Spot-billed Duck",
+    "display": "Eastern Spot-billed Duck (Eastern Spot-billed Duck)"
+  },
+  "Eastern_Yellow_Wagtail": {
+    "ko": "Eastern Yellow Wagtail",
+    "en": "Eastern Yellow Wagtail",
+    "display": "Eastern Yellow Wagtail (Eastern Yellow Wagtail)"
+  },
+  "Emperor_Goose": {
+    "ko": "Emperor Goose",
+    "en": "Emperor Goose",
+    "display": "Emperor Goose (Emperor Goose)"
+  },
+  "Eurasian_Bittern": {
+    "ko": "Eurasian Bittern",
+    "en": "Eurasian Bittern",
+    "display": "Eurasian Bittern (Eurasian Bittern)"
+  },
+  "Eurasian_Bullfinch": {
+    "ko": "Eurasian Bullfinch",
+    "en": "Eurasian Bullfinch",
+    "display": "Eurasian Bullfinch (Eurasian Bullfinch)"
+  },
+  "Eurasian_Collared-Dove": {
+    "ko": "Eurasian Collared-Dove",
+    "en": "Eurasian Collared-Dove",
+    "display": "Eurasian Collared-Dove (Eurasian Collared-Dove)"
+  },
+  "Eurasian_Coot": {
+    "ko": "Eurasian Coot",
+    "en": "Eurasian Coot",
+    "display": "Eurasian Coot (Eurasian Coot)"
+  },
+  "Eurasian_Curlew": {
+    "ko": "Eurasian Curlew",
+    "en": "Eurasian Curlew",
+    "display": "Eurasian Curlew (Eurasian Curlew)"
+  },
+  "Eurasian_Dotterel": {
+    "ko": "Eurasian Dotterel",
+    "en": "Eurasian Dotterel",
+    "display": "Eurasian Dotterel (Eurasian Dotterel)"
+  },
+  "Eurasian_Eagle-Owl": {
+    "ko": "Eurasian Eagle-Owl",
+    "en": "Eurasian Eagle-Owl",
+    "display": "Eurasian Eagle-Owl (Eurasian Eagle-Owl)"
+  },
+  "Eurasian_Goshawk": {
+    "ko": "Eurasian Goshawk",
+    "en": "Eurasian Goshawk",
+    "display": "Eurasian Goshawk (Eurasian Goshawk)"
+  },
+  "Eurasian_Hobby": {
+    "ko": "Eurasian Hobby",
+    "en": "Eurasian Hobby",
+    "display": "Eurasian Hobby (Eurasian Hobby)"
+  },
+  "Eurasian_Jay": {
+    "ko": "Eurasian Jay",
+    "en": "Eurasian Jay",
+    "display": "Eurasian Jay (Eurasian Jay)"
+  },
+  "Eurasian_Kestrel": {
+    "ko": "Eurasian Kestrel",
+    "en": "Eurasian Kestrel",
+    "display": "Eurasian Kestrel (Eurasian Kestrel)"
+  },
+  "Eurasian_Nuthatch": {
+    "ko": "Eurasian Nuthatch",
+    "en": "Eurasian Nuthatch",
+    "display": "Eurasian Nuthatch (Eurasian Nuthatch)"
+  },
+  "Eurasian_Oystercatcher": {
+    "ko": "Eurasian Oystercatcher",
+    "en": "Eurasian Oystercatcher",
+    "display": "Eurasian Oystercatcher (Eurasian Oystercatcher)"
+  },
+  "Eurasian_Siskin": {
+    "ko": "Eurasian Siskin",
+    "en": "Eurasian Siskin",
+    "display": "Eurasian Siskin (Eurasian Siskin)"
+  },
+  "Eurasian_Skylark": {
+    "ko": "Eurasian Skylark",
+    "en": "Eurasian Skylark",
+    "display": "Eurasian Skylark (Eurasian Skylark)"
+  },
+  "Eurasian_Sparrowhawk": {
+    "ko": "Eurasian Sparrowhawk",
+    "en": "Eurasian Sparrowhawk",
+    "display": "Eurasian Sparrowhawk (Eurasian Sparrowhawk)"
+  },
+  "Eurasian_Spoonbill": {
+    "ko": "Eurasian Spoonbill",
+    "en": "Eurasian Spoonbill",
+    "display": "Eurasian Spoonbill (Eurasian Spoonbill)"
+  },
+  "Eurasian_Tree_Sparrow": {
+    "ko": "Eurasian Tree Sparrow",
+    "en": "Eurasian Tree Sparrow",
+    "display": "Eurasian Tree Sparrow (Eurasian Tree Sparrow)"
+  },
+  "Eurasian_Treecreeper": {
+    "ko": "Eurasian Treecreeper",
+    "en": "Eurasian Treecreeper",
+    "display": "Eurasian Treecreeper (Eurasian Treecreeper)"
+  },
+  "Eurasian_Whimbrel": {
+    "ko": "Eurasian Whimbrel",
+    "en": "Eurasian Whimbrel",
+    "display": "Eurasian Whimbrel (Eurasian Whimbrel)"
+  },
+  "Eurasian_Wigeon": {
+    "ko": "Eurasian Wigeon",
+    "en": "Eurasian Wigeon",
+    "display": "Eurasian Wigeon (Eurasian Wigeon)"
+  },
+  "Eurasian_Woodcock": {
+    "ko": "Eurasian Woodcock",
+    "en": "Eurasian Woodcock",
+    "display": "Eurasian Woodcock (Eurasian Woodcock)"
+  },
+  "Eurasian_Wren": {
+    "ko": "Eurasian Wren",
+    "en": "Eurasian Wren",
+    "display": "Eurasian Wren (Eurasian Wren)"
+  },
+  "Eurasian_Wryneck": {
+    "ko": "Eurasian Wryneck",
+    "en": "Eurasian Wryneck",
+    "display": "Eurasian Wryneck (Eurasian Wryneck)"
+  },
+  "European_Robin": {
+    "ko": "European Robin",
+    "en": "European Robin",
+    "display": "European Robin (European Robin)"
+  },
+  "European_Starling": {
+    "ko": "European Starling",
+    "en": "European Starling",
+    "display": "European Starling (European Starling)"
+  },
+  "Eyebrowed_Thrush": {
+    "ko": "Eyebrowed Thrush",
+    "en": "Eyebrowed Thrush",
+    "display": "Eyebrowed Thrush (Eyebrowed Thrush)"
+  },
+  "Fairy_Pitta": {
+    "ko": "Fairy Pitta",
+    "en": "Fairy Pitta",
+    "display": "Fairy Pitta (Fairy Pitta)"
+  },
+  "Falcated_Duck": {
+    "ko": "Falcated Duck",
+    "en": "Falcated Duck",
+    "display": "Falcated Duck (Falcated Duck)"
+  },
+  "Far_Eastern_Curlew": {
+    "ko": "Far Eastern Curlew",
+    "en": "Far Eastern Curlew",
+    "display": "Far Eastern Curlew (Far Eastern Curlew)"
+  },
+  "Ferruginous_Duck": {
+    "ko": "Ferruginous Duck",
+    "en": "Ferruginous Duck",
+    "display": "Ferruginous Duck (Ferruginous Duck)"
+  },
+  "Fieldfare": {
+    "ko": "Fieldfare",
+    "en": "Fieldfare",
+    "display": "Fieldfare (Fieldfare)"
+  },
+  "Forest_Wagtail": {
+    "ko": "Forest Wagtail",
+    "en": "Forest Wagtail",
+    "display": "Forest Wagtail (Forest Wagtail)"
+  },
+  "Gadwall": {
+    "ko": "Gadwall",
+    "en": "Gadwall",
+    "display": "Gadwall (Gadwall)"
+  },
+  "Gadwall_×_Falcated_Duck": {
+    "ko": "Gadwall × Falcated Duck",
+    "en": "Gadwall × Falcated Duck",
+    "display": "Gadwall × Falcated Duck (Gadwall × Falcated Duck)"
+  },
+  "Garganey": {
+    "ko": "Garganey",
+    "en": "Garganey",
+    "display": "Garganey (Garganey)"
+  },
+  "Glaucous-winged_Gull": {
+    "ko": "Glaucous-winged Gull",
+    "en": "Glaucous-winged Gull",
+    "display": "Glaucous-winged Gull (Glaucous-winged Gull)"
+  },
+  "Glaucous_Gull": {
+    "ko": "Glaucous Gull",
+    "en": "Glaucous Gull",
+    "display": "Glaucous Gull (Glaucous Gull)"
+  },
+  "Goldcrest": {
+    "ko": "Goldcrest",
+    "en": "Goldcrest",
+    "display": "Goldcrest (Goldcrest)"
+  },
+  "Golden_Eagle": {
+    "ko": "Golden Eagle",
+    "en": "Golden Eagle",
+    "display": "Golden Eagle (Golden Eagle)"
+  },
+  "Golden_Pheasant": {
+    "ko": "Golden Pheasant",
+    "en": "Golden Pheasant",
+    "display": "Golden Pheasant (Golden Pheasant)"
+  },
+  "Gray-capped_Pygmy_Woodpecker": {
+    "ko": "Gray-capped Pygmy Woodpecker",
+    "en": "Gray-capped Pygmy Woodpecker",
+    "display": "Gray-capped Pygmy Woodpecker (Gray-capped Pygmy Woodpecker)"
+  },
+  "Gray-faced_Buzzard": {
+    "ko": "Gray-faced Buzzard",
+    "en": "Gray-faced Buzzard",
+    "display": "Gray-faced Buzzard (Gray-faced Buzzard)"
+  },
+  "Gray-streaked_Flycatcher": {
+    "ko": "Gray-streaked Flycatcher",
+    "en": "Gray-streaked Flycatcher",
+    "display": "Gray-streaked Flycatcher (Gray-streaked Flycatcher)"
+  },
+  "Gray_Nightjar": {
+    "ko": "Gray Nightjar",
+    "en": "Gray Nightjar",
+    "display": "Gray Nightjar (Gray Nightjar)"
+  },
+  "Great-tailed_Grackle": {
+    "ko": "Great-tailed Grackle",
+    "en": "Great-tailed Grackle",
+    "display": "Great-tailed Grackle (Great-tailed Grackle)"
+  },
+  "Great_Bustard": {
+    "ko": "Great Bustard",
+    "en": "Great Bustard",
+    "display": "Great Bustard (Great Bustard)"
+  },
+  "Great_Cormorant": {
+    "ko": "Great Cormorant",
+    "en": "Great Cormorant",
+    "display": "Great Cormorant (Great Cormorant)"
+  },
+  "Great_Crested_Grebe": {
+    "ko": "Great Crested Grebe",
+    "en": "Great Crested Grebe",
+    "display": "Great Crested Grebe (Great Crested Grebe)"
+  },
+  "Great_Crested_Tern": {
+    "ko": "Great Crested Tern",
+    "en": "Great Crested Tern",
+    "display": "Great Crested Tern (Great Crested Tern)"
+  },
+  "Great_Egret": {
+    "ko": "Great Egret",
+    "en": "Great Egret",
+    "display": "Great Egret (Great Egret)"
+  },
+  "Great_Grey_Shrike": {
+    "ko": "Great Grey Shrike",
+    "en": "Great Grey Shrike",
+    "display": "Great Grey Shrike (Great Grey Shrike)"
+  },
+  "Great_Knot": {
+    "ko": "Great Knot",
+    "en": "Great Knot",
+    "display": "Great Knot (Great Knot)"
+  },
+  "Great_Spotted_Woodpecker": {
+    "ko": "Great Spotted Woodpecker",
+    "en": "Great Spotted Woodpecker",
+    "display": "Great Spotted Woodpecker (Great Spotted Woodpecker)"
+  },
+  "Greater_Painted-Snipe": {
+    "ko": "Greater Painted-Snipe",
+    "en": "Greater Painted-Snipe",
+    "display": "Greater Painted-Snipe (Greater Painted-Snipe)"
+  },
+  "Greater_Sand-Plover": {
+    "ko": "Greater Sand-Plover",
+    "en": "Greater Sand-Plover",
+    "display": "Greater Sand-Plover (Greater Sand-Plover)"
+  },
+  "Greater_Scaup": {
+    "ko": "Greater Scaup",
+    "en": "Greater Scaup",
+    "display": "Greater Scaup (Greater Scaup)"
+  },
+  "Greater_Short-toed_Lark": {
+    "ko": "Greater Short-toed Lark",
+    "en": "Greater Short-toed Lark",
+    "display": "Greater Short-toed Lark (Greater Short-toed Lark)"
+  },
+  "Greater_Spotted_Eagle": {
+    "ko": "Greater Spotted Eagle",
+    "en": "Greater Spotted Eagle",
+    "display": "Greater Spotted Eagle (Greater Spotted Eagle)"
+  },
+  "Greater_White-fronted_Goose": {
+    "ko": "Greater White-fronted Goose",
+    "en": "Greater White-fronted Goose",
+    "display": "Greater White-fronted Goose (Greater White-fronted Goose)"
+  },
+  "Green-winged_Teal": {
+    "ko": "Green-winged Teal",
+    "en": "Green-winged Teal",
+    "display": "Green-winged Teal (Green-winged Teal)"
+  },
+  "Green_Sandpiper": {
+    "ko": "Green Sandpiper",
+    "en": "Green Sandpiper",
+    "display": "Green Sandpiper (Green Sandpiper)"
+  },
+  "Grey-backed_Thrush": {
+    "ko": "Grey-backed Thrush",
+    "en": "Grey-backed Thrush",
+    "display": "Grey-backed Thrush (Grey-backed Thrush)"
+  },
+  "Grey-headed_Lapwing": {
+    "ko": "Grey-headed Lapwing",
+    "en": "Grey-headed Lapwing",
+    "display": "Grey-headed Lapwing (Grey-headed Lapwing)"
+  },
+  "Grey-headed_Woodpecker": {
+    "ko": "Grey-headed Woodpecker",
+    "en": "Grey-headed Woodpecker",
+    "display": "Grey-headed Woodpecker (Grey-headed Woodpecker)"
+  },
+  "Grey-tailed_Tattler": {
+    "ko": "Grey-tailed Tattler",
+    "en": "Grey-tailed Tattler",
+    "display": "Grey-tailed Tattler (Grey-tailed Tattler)"
+  },
+  "Grey_Bunting": {
+    "ko": "Grey Bunting",
+    "en": "Grey Bunting",
+    "display": "Grey Bunting (Grey Bunting)"
+  },
+  "Grey_Bushchat": {
+    "ko": "Grey Bushchat",
+    "en": "Grey Bushchat",
+    "display": "Grey Bushchat (Grey Bushchat)"
+  },
+  "Grey_Heron": {
+    "ko": "Grey Heron",
+    "en": "Grey Heron",
+    "display": "Grey Heron (Grey Heron)"
+  },
+  "Grey_Wagtail": {
+    "ko": "Grey Wagtail",
+    "en": "Grey Wagtail",
+    "display": "Grey Wagtail (Grey Wagtail)"
+  },
+  "Greylag_Goose": {
+    "ko": "Greylag Goose",
+    "en": "Greylag Goose",
+    "display": "Greylag Goose (Greylag Goose)"
+  },
+  "Greylag_×_Swan_Goose": {
+    "ko": "Greylag × Swan Goose",
+    "en": "Greylag × Swan Goose",
+    "display": "Greylag × Swan Goose (Greylag × Swan Goose)"
+  },
+  "Gull-billed_Tern": {
+    "ko": "Gull-billed Tern",
+    "en": "Gull-billed Tern",
+    "display": "Gull-billed Tern (Gull-billed Tern)"
+  },
+  "Hair-crested_Drongo": {
+    "ko": "Hair-crested Drongo",
+    "en": "Hair-crested Drongo",
+    "display": "Hair-crested Drongo (Hair-crested Drongo)"
+  },
+  "Harlequin_Duck": {
+    "ko": "Harlequin Duck",
+    "en": "Harlequin Duck",
+    "display": "Harlequin Duck (Harlequin Duck)"
+  },
+  "Hawfinch": {
+    "ko": "Hawfinch",
+    "en": "Hawfinch",
+    "display": "Hawfinch (Hawfinch)"
+  },
+  "Hazel_Grouse": {
+    "ko": "Hazel Grouse",
+    "en": "Hazel Grouse",
+    "display": "Hazel Grouse (Hazel Grouse)"
+  },
+  "Hen_Harrier": {
+    "ko": "Hen Harrier",
+    "en": "Hen Harrier",
+    "display": "Hen Harrier (Hen Harrier)"
+  },
+  "Hill_Pigeon": {
+    "ko": "Hill Pigeon",
+    "en": "Hill Pigeon",
+    "display": "Hill Pigeon (Hill Pigeon)"
+  },
+  "Himalayan_Owl": {
+    "ko": "Himalayan Owl",
+    "en": "Himalayan Owl",
+    "display": "Himalayan Owl (Himalayan Owl)"
+  },
+  "Hooded_Crane": {
+    "ko": "Hooded Crane",
+    "en": "Hooded Crane",
+    "display": "Hooded Crane (Hooded Crane)"
+  },
+  "Horned_Grebe": {
+    "ko": "Horned Grebe",
+    "en": "Horned Grebe",
+    "display": "Horned Grebe (Horned Grebe)"
+  },
+  "Horned_Lark": {
+    "ko": "Horned Lark",
+    "en": "Horned Lark",
+    "display": "Horned Lark (Horned Lark)"
+  },
+  "House_Sparrow": {
+    "ko": "House Sparrow",
+    "en": "House Sparrow",
+    "display": "House Sparrow (House Sparrow)"
+  },
+  "House_Swift": {
+    "ko": "House Swift",
+    "en": "House Swift",
+    "display": "House Swift (House Swift)"
+  },
+  "Iceland_Gull": {
+    "ko": "Iceland Gull",
+    "en": "Iceland Gull",
+    "display": "Iceland Gull (Iceland Gull)"
+  },
+  "Imperial_Eagle": {
+    "ko": "Imperial Eagle",
+    "en": "Imperial Eagle",
+    "display": "Imperial Eagle (Imperial Eagle)"
+  },
+  "Indian_Cuckoo": {
+    "ko": "Indian Cuckoo",
+    "en": "Indian Cuckoo",
+    "display": "Indian Cuckoo (Indian Cuckoo)"
+  },
+  "Indian_Peafowl": {
+    "ko": "Indian Peafowl",
+    "en": "Indian Peafowl",
+    "display": "Indian Peafowl (Indian Peafowl)"
+  },
+  "Isabelline_Wheatear": {
+    "ko": "Isabelline Wheatear",
+    "en": "Isabelline Wheatear",
+    "display": "Isabelline Wheatear (Isabelline Wheatear)"
+  },
+  "Japanese_Bush_Warbler": {
+    "ko": "Japanese Bush Warbler",
+    "en": "Japanese Bush Warbler",
+    "display": "Japanese Bush Warbler (Japanese Bush Warbler)"
+  },
+  "Japanese_Cormorant": {
+    "ko": "Japanese Cormorant",
+    "en": "Japanese Cormorant",
+    "display": "Japanese Cormorant (Japanese Cormorant)"
+  },
+  "Japanese_Grosbeak": {
+    "ko": "Japanese Grosbeak",
+    "en": "Japanese Grosbeak",
+    "display": "Japanese Grosbeak (Japanese Grosbeak)"
+  },
+  "Japanese_Murrelet": {
+    "ko": "Japanese Murrelet",
+    "en": "Japanese Murrelet",
+    "display": "Japanese Murrelet (Japanese Murrelet)"
+  },
+  "Japanese_Night_Heron": {
+    "ko": "Japanese Night Heron",
+    "en": "Japanese Night Heron",
+    "display": "Japanese Night Heron (Japanese Night Heron)"
+  },
+  "Japanese_Pygmy_Woodpecker": {
+    "ko": "Japanese Pygmy Woodpecker",
+    "en": "Japanese Pygmy Woodpecker",
+    "display": "Japanese Pygmy Woodpecker (Japanese Pygmy Woodpecker)"
+  },
+  "Japanese_Quail": {
+    "ko": "Japanese Quail",
+    "en": "Japanese Quail",
+    "display": "Japanese Quail (Japanese Quail)"
+  },
+  "Japanese_Robin": {
+    "ko": "Japanese Robin",
+    "en": "Japanese Robin",
+    "display": "Japanese Robin (Japanese Robin)"
+  },
+  "Japanese_Scops-Owl": {
+    "ko": "Japanese Scops-Owl",
+    "en": "Japanese Scops-Owl",
+    "display": "Japanese Scops-Owl (Japanese Scops-Owl)"
+  },
+  "Japanese_Sparrowhawk": {
+    "ko": "Japanese Sparrowhawk",
+    "en": "Japanese Sparrowhawk",
+    "display": "Japanese Sparrowhawk (Japanese Sparrowhawk)"
+  },
+  "Japanese_Thrush": {
+    "ko": "Japanese Thrush",
+    "en": "Japanese Thrush",
+    "display": "Japanese Thrush (Japanese Thrush)"
+  },
+  "Japanese_Wagtail": {
+    "ko": "Japanese Wagtail",
+    "en": "Japanese Wagtail",
+    "display": "Japanese Wagtail (Japanese Wagtail)"
+  },
+  "Japanese_Waxwing": {
+    "ko": "Japanese Waxwing",
+    "en": "Japanese Waxwing",
+    "display": "Japanese Waxwing (Japanese Waxwing)"
+  },
+  "Kamchatka_Leaf_Warbler": {
+    "ko": "Kamchatka Leaf Warbler",
+    "en": "Kamchatka Leaf Warbler",
+    "display": "Kamchatka Leaf Warbler (Kamchatka Leaf Warbler)"
+  },
+  "Kentish_Plover": {
+    "ko": "Kentish Plover",
+    "en": "Kentish Plover",
+    "display": "Kentish Plover (Kentish Plover)"
+  },
+  "King_Eider": {
+    "ko": "King Eider",
+    "en": "King Eider",
+    "display": "King Eider (King Eider)"
+  },
+  "Lanceolated_Warbler": {
+    "ko": "Lanceolated Warbler",
+    "en": "Lanceolated Warbler",
+    "display": "Lanceolated Warbler (Lanceolated Warbler)"
+  },
+  "Lapland_Longspur": {
+    "ko": "Lapland Longspur",
+    "en": "Lapland Longspur",
+    "display": "Lapland Longspur (Lapland Longspur)"
+  },
+  "Large-billed_Crow": {
+    "ko": "Large-billed Crow",
+    "en": "Large-billed Crow",
+    "display": "Large-billed Crow (Large-billed Crow)"
+  },
+  "Latham's_Snipe": {
+    "ko": "Latham's Snipe",
+    "en": "Latham's Snipe",
+    "display": "Latham's Snipe (Latham's Snipe)"
+  },
+  "Lesser_Black-backed_Gull": {
+    "ko": "Lesser Black-backed Gull",
+    "en": "Lesser Black-backed Gull",
+    "display": "Lesser Black-backed Gull (Lesser Black-backed Gull)"
+  },
+  "Lesser_Coucal": {
+    "ko": "Lesser Coucal",
+    "en": "Lesser Coucal",
+    "display": "Lesser Coucal (Lesser Coucal)"
+  },
+  "Lesser_Cuckoo": {
+    "ko": "Lesser Cuckoo",
+    "en": "Lesser Cuckoo",
+    "display": "Lesser Cuckoo (Lesser Cuckoo)"
+  },
+  "Lesser_White-fronted_Goose": {
+    "ko": "Lesser White-fronted Goose",
+    "en": "Lesser White-fronted Goose",
+    "display": "Lesser White-fronted Goose (Lesser White-fronted Goose)"
+  },
+  "Lesser_Whitethroat": {
+    "ko": "Lesser Whitethroat",
+    "en": "Lesser Whitethroat",
+    "display": "Lesser Whitethroat (Lesser Whitethroat)"
+  },
+  "Light-vented_Bulbul": {
+    "ko": "Light-vented Bulbul",
+    "en": "Light-vented Bulbul",
+    "display": "Light-vented Bulbul (Light-vented Bulbul)"
+  },
+  "Little_Bunting": {
+    "ko": "Little Bunting",
+    "en": "Little Bunting",
+    "display": "Little Bunting (Little Bunting)"
+  },
+  "Little_Curlew": {
+    "ko": "Little Curlew",
+    "en": "Little Curlew",
+    "display": "Little Curlew (Little Curlew)"
+  },
+  "Little_Egret": {
+    "ko": "Little Egret",
+    "en": "Little Egret",
+    "display": "Little Egret (Little Egret)"
+  },
+  "Little_Grebe": {
+    "ko": "Little Grebe",
+    "en": "Little Grebe",
+    "display": "Little Grebe (Little Grebe)"
+  },
+  "Little_Gull": {
+    "ko": "Little Gull",
+    "en": "Little Gull",
+    "display": "Little Gull (Little Gull)"
+  },
+  "Little_Heron": {
+    "ko": "Little Heron",
+    "en": "Little Heron",
+    "display": "Little Heron (Little Heron)"
+  },
+  "Little_Owl": {
+    "ko": "Little Owl",
+    "en": "Little Owl",
+    "display": "Little Owl (Little Owl)"
+  },
+  "Little_Ringed_Plover": {
+    "ko": "Little Ringed Plover",
+    "en": "Little Ringed Plover",
+    "display": "Little Ringed Plover (Little Ringed Plover)"
+  },
+  "Little_Tern": {
+    "ko": "Little Tern",
+    "en": "Little Tern",
+    "display": "Little Tern (Little Tern)"
+  },
+  "Long-billed_Dowitcher": {
+    "ko": "Long-billed Dowitcher",
+    "en": "Long-billed Dowitcher",
+    "display": "Long-billed Dowitcher (Long-billed Dowitcher)"
+  },
+  "Long-billed_Murrelet": {
+    "ko": "Long-billed Murrelet",
+    "en": "Long-billed Murrelet",
+    "display": "Long-billed Murrelet (Long-billed Murrelet)"
+  },
+  "Long-billed_Plover": {
+    "ko": "Long-billed Plover",
+    "en": "Long-billed Plover",
+    "display": "Long-billed Plover (Long-billed Plover)"
+  },
+  "Long-eared_Owl": {
+    "ko": "Long-eared Owl",
+    "en": "Long-eared Owl",
+    "display": "Long-eared Owl (Long-eared Owl)"
+  },
+  "Long-tailed_Duck": {
+    "ko": "Long-tailed Duck",
+    "en": "Long-tailed Duck",
+    "display": "Long-tailed Duck (Long-tailed Duck)"
+  },
+  "Long-tailed_Rosefinch": {
+    "ko": "Long-tailed Rosefinch",
+    "en": "Long-tailed Rosefinch",
+    "display": "Long-tailed Rosefinch (Long-tailed Rosefinch)"
+  },
+  "Long-tailed_Shrike": {
+    "ko": "Long-tailed Shrike",
+    "en": "Long-tailed Shrike",
+    "display": "Long-tailed Shrike (Long-tailed Shrike)"
+  },
+  "Long-tailed_Tit": {
+    "ko": "Long-tailed Tit",
+    "en": "Long-tailed Tit",
+    "display": "Long-tailed Tit (Long-tailed Tit)"
+  },
+  "Long-toed_Stint": {
+    "ko": "Long-toed Stint",
+    "en": "Long-toed Stint",
+    "display": "Long-toed Stint (Long-toed Stint)"
+  },
+  "Mallard": {
+    "ko": "Mallard",
+    "en": "Mallard",
+    "display": "Mallard (Mallard)"
+  },
+  "Mallard_×_Eastern_Spot-billed_Duck": {
+    "ko": "Mallard × Eastern Spot-billed Duck",
+    "en": "Mallard × Eastern Spot-billed Duck",
+    "display": "Mallard × Eastern Spot-billed Duck (Mallard × Eastern Spot-billed Duck)"
+  },
+  "Mallard_×_Muscovy_Duck": {
+    "ko": "Mallard × Muscovy Duck",
+    "en": "Mallard × Muscovy Duck",
+    "display": "Mallard × Muscovy Duck (Mallard × Muscovy Duck)"
+  },
+  "Manchurian_Bush-Warbler": {
+    "ko": "Manchurian Bush-Warbler",
+    "en": "Manchurian Bush-Warbler",
+    "display": "Manchurian Bush-Warbler (Manchurian Bush-Warbler)"
+  },
+  "Mandarin_Duck": {
+    "ko": "Mandarin Duck",
+    "en": "Mandarin Duck",
+    "display": "Mandarin Duck (Mandarin Duck)"
+  },
+  "Marbled_Murrelet": {
+    "ko": "Marbled Murrelet",
+    "en": "Marbled Murrelet",
+    "display": "Marbled Murrelet (Marbled Murrelet)"
+  },
+  "Marsh_Sandpiper": {
+    "ko": "Marsh Sandpiper",
+    "en": "Marsh Sandpiper",
+    "display": "Marsh Sandpiper (Marsh Sandpiper)"
+  },
+  "Marsh_Tit": {
+    "ko": "Marsh Tit",
+    "en": "Marsh Tit",
+    "display": "Marsh Tit (Marsh Tit)"
+  },
+  "Masked_Bunting": {
+    "ko": "Masked Bunting",
+    "en": "Masked Bunting",
+    "display": "Masked Bunting (Masked Bunting)"
+  },
+  "Meadow_Bunting": {
+    "ko": "Meadow Bunting",
+    "en": "Meadow Bunting",
+    "display": "Meadow Bunting (Meadow Bunting)"
+  },
+  "Meadow_Pipit": {
+    "ko": "Meadow Pipit",
+    "en": "Meadow Pipit",
+    "display": "Meadow Pipit (Meadow Pipit)"
+  },
+  "Medium_Egret": {
+    "ko": "Medium Egret",
+    "en": "Medium Egret",
+    "display": "Medium Egret (Medium Egret)"
+  },
+  "Merlin": {
+    "ko": "Merlin",
+    "en": "Merlin",
+    "display": "Merlin (Merlin)"
+  },
+  "Middendorff's_Grasshopper_Warbler": {
+    "ko": "Middendorff's Grasshopper Warbler",
+    "en": "Middendorff's Grasshopper Warbler",
+    "display": "Middendorff's Grasshopper Warbler (Middendorff's Grasshopper Warbler)"
+  },
+  "Mongolian_Gull": {
+    "ko": "Mongolian Gull",
+    "en": "Mongolian Gull",
+    "display": "Mongolian Gull (Mongolian Gull)"
+  },
+  "Mongolian_Lark": {
+    "ko": "Mongolian Lark",
+    "en": "Mongolian Lark",
+    "display": "Mongolian Lark (Mongolian Lark)"
+  },
+  "Mongolian_Short-toed_Lark": {
+    "ko": "Mongolian Short-toed Lark",
+    "en": "Mongolian Short-toed Lark",
+    "display": "Mongolian Short-toed Lark (Mongolian Short-toed Lark)"
+  },
+  "Mugimaki_Flycatcher": {
+    "ko": "Mugimaki Flycatcher",
+    "en": "Mugimaki Flycatcher",
+    "display": "Mugimaki Flycatcher (Mugimaki Flycatcher)"
+  },
+  "Muscovy_Duck": {
+    "ko": "Muscovy Duck",
+    "en": "Muscovy Duck",
+    "display": "Muscovy Duck (Muscovy Duck)"
+  },
+  "Mute_Swan": {
+    "ko": "Mute Swan",
+    "en": "Mute Swan",
+    "display": "Mute Swan (Mute Swan)"
+  },
+  "Narcissus_Flycatcher": {
+    "ko": "Narcissus Flycatcher",
+    "en": "Narcissus Flycatcher",
+    "display": "Narcissus Flycatcher (Narcissus Flycatcher)"
+  },
+  "Naumann's_Thrush": {
+    "ko": "Naumann's Thrush",
+    "en": "Naumann's Thrush",
+    "display": "Naumann's Thrush (Naumann's Thrush)"
+  },
+  "Nordmann's_Greenshank": {
+    "ko": "Nordmann's Greenshank",
+    "en": "Nordmann's Greenshank",
+    "display": "Nordmann's Greenshank (Nordmann's Greenshank)"
+  },
+  "Northern_Boobook": {
+    "ko": "Northern Boobook",
+    "en": "Northern Boobook",
+    "display": "Northern Boobook (Northern Boobook)"
+  },
+  "Northern_Hawk-Cuckoo": {
+    "ko": "Northern Hawk-Cuckoo",
+    "en": "Northern Hawk-Cuckoo",
+    "display": "Northern Hawk-Cuckoo (Northern Hawk-Cuckoo)"
+  },
+  "Northern_Lapwing": {
+    "ko": "Northern Lapwing",
+    "en": "Northern Lapwing",
+    "display": "Northern Lapwing (Northern Lapwing)"
+  },
+  "Northern_Nutcracker": {
+    "ko": "Northern Nutcracker",
+    "en": "Northern Nutcracker",
+    "display": "Northern Nutcracker (Northern Nutcracker)"
+  },
+  "Northern_Pintail": {
+    "ko": "Northern Pintail",
+    "en": "Northern Pintail",
+    "display": "Northern Pintail (Northern Pintail)"
+  },
+  "Northern_Shoveler": {
+    "ko": "Northern Shoveler",
+    "en": "Northern Shoveler",
+    "display": "Northern Shoveler (Northern Shoveler)"
+  },
+  "Northern_Wheatear": {
+    "ko": "Northern Wheatear",
+    "en": "Northern Wheatear",
+    "display": "Northern Wheatear (Northern Wheatear)"
+  },
+  "Ochre-rumped_Bunting": {
+    "ko": "Ochre-rumped Bunting",
+    "en": "Ochre-rumped Bunting",
+    "display": "Ochre-rumped Bunting (Ochre-rumped Bunting)"
+  },
+  "Olive-backed_Pipit": {
+    "ko": "Olive-backed Pipit",
+    "en": "Olive-backed Pipit",
+    "display": "Olive-backed Pipit (Olive-backed Pipit)"
+  },
+  "Orange-headed_Thrush": {
+    "ko": "Orange-headed Thrush",
+    "en": "Orange-headed Thrush",
+    "display": "Orange-headed Thrush (Orange-headed Thrush)"
+  },
+  "Oriental_Cuckoo": {
+    "ko": "Oriental Cuckoo",
+    "en": "Oriental Cuckoo",
+    "display": "Oriental Cuckoo (Oriental Cuckoo)"
+  },
+  "Oriental_Greenfinch": {
+    "ko": "Oriental Greenfinch",
+    "en": "Oriental Greenfinch",
+    "display": "Oriental Greenfinch (Oriental Greenfinch)"
+  },
+  "Oriental_Honey-buzzard": {
+    "ko": "Oriental Honey-buzzard",
+    "en": "Oriental Honey-buzzard",
+    "display": "Oriental Honey-buzzard (Oriental Honey-buzzard)"
+  },
+  "Oriental_Magpie": {
+    "ko": "Oriental Magpie",
+    "en": "Oriental Magpie",
+    "display": "Oriental Magpie (Oriental Magpie)"
+  },
+  "Oriental_Plover": {
+    "ko": "Oriental Plover",
+    "en": "Oriental Plover",
+    "display": "Oriental Plover (Oriental Plover)"
+  },
+  "Oriental_Pratincole": {
+    "ko": "Oriental Pratincole",
+    "en": "Oriental Pratincole",
+    "display": "Oriental Pratincole (Oriental Pratincole)"
+  },
+  "Oriental_Reed_Warbler": {
+    "ko": "Oriental Reed Warbler",
+    "en": "Oriental Reed Warbler",
+    "display": "Oriental Reed Warbler (Oriental Reed Warbler)"
+  },
+  "Oriental_Scops-Owl": {
+    "ko": "Oriental Scops-Owl",
+    "en": "Oriental Scops-Owl",
+    "display": "Oriental Scops-Owl (Oriental Scops-Owl)"
+  },
+  "Oriental_Stork": {
+    "ko": "Oriental Stork",
+    "en": "Oriental Stork",
+    "display": "Oriental Stork (Oriental Stork)"
+  },
+  "Oriental_Turtle-Dove": {
+    "ko": "Oriental Turtle-Dove",
+    "en": "Oriental Turtle-Dove",
+    "display": "Oriental Turtle-Dove (Oriental Turtle-Dove)"
+  },
+  "Osprey": {
+    "ko": "Osprey",
+    "en": "Osprey",
+    "display": "Osprey (Osprey)"
+  },
+  "Pacific_Golden-Plover": {
+    "ko": "Pacific Golden-Plover",
+    "en": "Pacific Golden-Plover",
+    "display": "Pacific Golden-Plover (Pacific Golden-Plover)"
+  },
+  "Pacific_Loon": {
+    "ko": "Pacific Loon",
+    "en": "Pacific Loon",
+    "display": "Pacific Loon (Pacific Loon)"
+  },
+  "Pacific_Reef_Heron": {
+    "ko": "Pacific Reef Heron",
+    "en": "Pacific Reef Heron",
+    "display": "Pacific Reef Heron (Pacific Reef Heron)"
+  },
+  "Pacific_Swift": {
+    "ko": "Pacific Swift",
+    "en": "Pacific Swift",
+    "display": "Pacific Swift (Pacific Swift)"
+  },
+  "Pale-legged_Leaf_Warbler": {
+    "ko": "Pale-legged Leaf Warbler",
+    "en": "Pale-legged Leaf Warbler",
+    "display": "Pale-legged Leaf Warbler (Pale-legged Leaf Warbler)"
+  },
+  "Pale_Thrush": {
+    "ko": "Pale Thrush",
+    "en": "Pale Thrush",
+    "display": "Pale Thrush (Pale Thrush)"
+  },
+  "Pallas's_Bunting": {
+    "ko": "Pallas's Bunting",
+    "en": "Pallas's Bunting",
+    "display": "Pallas's Bunting (Pallas's Bunting)"
+  },
+  "Pallas's_Grasshopper_Warbler": {
+    "ko": "Pallas's Grasshopper Warbler",
+    "en": "Pallas's Grasshopper Warbler",
+    "display": "Pallas's Grasshopper Warbler (Pallas's Grasshopper Warbler)"
+  },
+  "Pallas's_Gull": {
+    "ko": "Pallas's Gull",
+    "en": "Pallas's Gull",
+    "display": "Pallas's Gull (Pallas's Gull)"
+  },
+  "Pallas's_Leaf_Warbler": {
+    "ko": "Pallas's Leaf Warbler",
+    "en": "Pallas's Leaf Warbler",
+    "display": "Pallas's Leaf Warbler (Pallas's Leaf Warbler)"
+  },
+  "Pallas's_Rosefinch": {
+    "ko": "Pallas's Rosefinch",
+    "en": "Pallas's Rosefinch",
+    "display": "Pallas's Rosefinch (Pallas's Rosefinch)"
+  },
+  "Parasitic_Jaeger": {
+    "ko": "Parasitic Jaeger",
+    "en": "Parasitic Jaeger",
+    "display": "Parasitic Jaeger (Parasitic Jaeger)"
+  },
+  "Pechora_Pipit": {
+    "ko": "Pechora Pipit",
+    "en": "Pechora Pipit",
+    "display": "Pechora Pipit (Pechora Pipit)"
+  },
+  "Pectoral_Sandpiper": {
+    "ko": "Pectoral Sandpiper",
+    "en": "Pectoral Sandpiper",
+    "display": "Pectoral Sandpiper (Pectoral Sandpiper)"
+  },
+  "Pelagic_Cormorant": {
+    "ko": "Pelagic Cormorant",
+    "en": "Pelagic Cormorant",
+    "display": "Pelagic Cormorant (Pelagic Cormorant)"
+  },
+  "Peregrine_Falcon": {
+    "ko": "Peregrine Falcon",
+    "en": "Peregrine Falcon",
+    "display": "Peregrine Falcon (Peregrine Falcon)"
+  },
+  "Pheasant-tailed_Jacana": {
+    "ko": "Pheasant-tailed Jacana",
+    "en": "Pheasant-tailed Jacana",
+    "display": "Pheasant-tailed Jacana (Pheasant-tailed Jacana)"
+  },
+  "Pied_Avocet": {
+    "ko": "Pied Avocet",
+    "en": "Pied Avocet",
+    "display": "Pied Avocet (Pied Avocet)"
+  },
+  "Pied_Harrier": {
+    "ko": "Pied Harrier",
+    "en": "Pied Harrier",
+    "display": "Pied Harrier (Pied Harrier)"
+  },
+  "Pin-tailed_Snipe": {
+    "ko": "Pin-tailed Snipe",
+    "en": "Pin-tailed Snipe",
+    "display": "Pin-tailed Snipe (Pin-tailed Snipe)"
+  },
+  "Pine_Bunting": {
+    "ko": "Pine Bunting",
+    "en": "Pine Bunting",
+    "display": "Pine Bunting (Pine Bunting)"
+  },
+  "Pleske's_Grasshopper_Warbler": {
+    "ko": "Pleske's Grasshopper Warbler",
+    "en": "Pleske's Grasshopper Warbler",
+    "display": "Pleske's Grasshopper Warbler (Pleske's Grasshopper Warbler)"
+  },
+  "Plumbeous_Water_Redstart": {
+    "ko": "Plumbeous Water Redstart",
+    "en": "Plumbeous Water Redstart",
+    "display": "Plumbeous Water Redstart (Plumbeous Water Redstart)"
+  },
+  "Pomarine_Jaeger": {
+    "ko": "Pomarine Jaeger",
+    "en": "Pomarine Jaeger",
+    "display": "Pomarine Jaeger (Pomarine Jaeger)"
+  },
+  "Purple_Heron": {
+    "ko": "Purple Heron",
+    "en": "Purple Heron",
+    "display": "Purple Heron (Purple Heron)"
+  },
+  "Radde's_Warbler": {
+    "ko": "Radde's Warbler",
+    "en": "Radde's Warbler",
+    "display": "Radde's Warbler (Radde's Warbler)"
+  },
+  "Red-backed_Shrike": {
+    "ko": "Red-backed Shrike",
+    "en": "Red-backed Shrike",
+    "display": "Red-backed Shrike (Red-backed Shrike)"
+  },
+  "Red-billed_Starling": {
+    "ko": "Red-billed Starling",
+    "en": "Red-billed Starling",
+    "display": "Red-billed Starling (Red-billed Starling)"
+  },
+  "Red-breasted_Flycatcher": {
+    "ko": "Red-breasted Flycatcher",
+    "en": "Red-breasted Flycatcher",
+    "display": "Red-breasted Flycatcher (Red-breasted Flycatcher)"
+  },
+  "Red-breasted_Goose": {
+    "ko": "Red-breasted Goose",
+    "en": "Red-breasted Goose",
+    "display": "Red-breasted Goose (Red-breasted Goose)"
+  },
+  "Red-breasted_Merganser": {
+    "ko": "Red-breasted Merganser",
+    "en": "Red-breasted Merganser",
+    "display": "Red-breasted Merganser (Red-breasted Merganser)"
+  },
+  "Red-crested_Pochard": {
+    "ko": "Red-crested Pochard",
+    "en": "Red-crested Pochard",
+    "display": "Red-crested Pochard (Red-crested Pochard)"
+  },
+  "Red-crowned_Crane": {
+    "ko": "Red-crowned Crane",
+    "en": "Red-crowned Crane",
+    "display": "Red-crowned Crane (Red-crowned Crane)"
+  },
+  "Red-flanked_Bluetail": {
+    "ko": "Red-flanked Bluetail",
+    "en": "Red-flanked Bluetail",
+    "display": "Red-flanked Bluetail (Red-flanked Bluetail)"
+  },
+  "Red-necked_Grebe": {
+    "ko": "Red-necked Grebe",
+    "en": "Red-necked Grebe",
+    "display": "Red-necked Grebe (Red-necked Grebe)"
+  },
+  "Red-necked_Phalarope": {
+    "ko": "Red-necked Phalarope",
+    "en": "Red-necked Phalarope",
+    "display": "Red-necked Phalarope (Red-necked Phalarope)"
+  },
+  "Red-necked_Stint": {
+    "ko": "Red-necked Stint",
+    "en": "Red-necked Stint",
+    "display": "Red-necked Stint (Red-necked Stint)"
+  },
+  "Red-tailed_Shrike": {
+    "ko": "Red-tailed Shrike",
+    "en": "Red-tailed Shrike",
+    "display": "Red-tailed Shrike (Red-tailed Shrike)"
+  },
+  "Red-throated_Loon": {
+    "ko": "Red-throated Loon",
+    "en": "Red-throated Loon",
+    "display": "Red-throated Loon (Red-throated Loon)"
+  },
+  "Red-throated_Pipit": {
+    "ko": "Red-throated Pipit",
+    "en": "Red-throated Pipit",
+    "display": "Red-throated Pipit (Red-throated Pipit)"
+  },
+  "Red-throated_Thrush": {
+    "ko": "Red-throated Thrush",
+    "en": "Red-throated Thrush",
+    "display": "Red-throated Thrush (Red-throated Thrush)"
+  },
+  "Red_Collared-Dove": {
+    "ko": "Red Collared-Dove",
+    "en": "Red Collared-Dove",
+    "display": "Red Collared-Dove (Red Collared-Dove)"
+  },
+  "Red_Crossbill": {
+    "ko": "Red Crossbill",
+    "en": "Red Crossbill",
+    "display": "Red Crossbill (Red Crossbill)"
+  },
+  "Red_Junglefowl": {
+    "ko": "Red Junglefowl",
+    "en": "Red Junglefowl",
+    "display": "Red Junglefowl (Red Junglefowl)"
+  },
+  "Red_Knot": {
+    "ko": "Red Knot",
+    "en": "Red Knot",
+    "display": "Red Knot (Red Knot)"
+  },
+  "Redpoll": {
+    "ko": "Redpoll",
+    "en": "Redpoll",
+    "display": "Redpoll (Redpoll)"
+  },
+  "Reed_Bunting": {
+    "ko": "Reed Bunting",
+    "en": "Reed Bunting",
+    "display": "Reed Bunting (Reed Bunting)"
+  },
+  "Relict_Gull": {
+    "ko": "Relict Gull",
+    "en": "Relict Gull",
+    "display": "Relict Gull (Relict Gull)"
+  },
+  "Rhinoceros_Auklet": {
+    "ko": "Rhinoceros Auklet",
+    "en": "Rhinoceros Auklet",
+    "display": "Rhinoceros Auklet (Rhinoceros Auklet)"
+  },
+  "Richard's_Pipit": {
+    "ko": "Richard's Pipit",
+    "en": "Richard's Pipit",
+    "display": "Richard's Pipit (Richard's Pipit)"
+  },
+  "Ring-necked_Duck": {
+    "ko": "Ring-necked Duck",
+    "en": "Ring-necked Duck",
+    "display": "Ring-necked Duck (Ring-necked Duck)"
+  },
+  "Ring-necked_Pheasant": {
+    "ko": "Ring-necked Pheasant",
+    "en": "Ring-necked Pheasant",
+    "display": "Ring-necked Pheasant (Ring-necked Pheasant)"
+  },
+  "Rock_Pigeon": {
+    "ko": "Rock Pigeon",
+    "en": "Rock Pigeon",
+    "display": "Rock Pigeon (Rock Pigeon)"
+  },
+  "Rook": {
+    "ko": "Rook",
+    "en": "Rook",
+    "display": "Rook (Rook)"
+  },
+  "Rosy_Pipit": {
+    "ko": "Rosy Pipit",
+    "en": "Rosy Pipit",
+    "display": "Rosy Pipit (Rosy Pipit)"
+  },
+  "Rosy_Starling": {
+    "ko": "Rosy Starling",
+    "en": "Rosy Starling",
+    "display": "Rosy Starling (Rosy Starling)"
+  },
+  "Rough-legged_Hawk": {
+    "ko": "Rough-legged Hawk",
+    "en": "Rough-legged Hawk",
+    "display": "Rough-legged Hawk (Rough-legged Hawk)"
+  },
+  "Ruddy-breasted_Crake": {
+    "ko": "Ruddy-breasted Crake",
+    "en": "Ruddy-breasted Crake",
+    "display": "Ruddy-breasted Crake (Ruddy-breasted Crake)"
+  },
+  "Ruddy_Kingfisher": {
+    "ko": "Ruddy Kingfisher",
+    "en": "Ruddy Kingfisher",
+    "display": "Ruddy Kingfisher (Ruddy Kingfisher)"
+  },
+  "Ruddy_Shelduck": {
+    "ko": "Ruddy Shelduck",
+    "en": "Ruddy Shelduck",
+    "display": "Ruddy Shelduck (Ruddy Shelduck)"
+  },
+  "Ruddy_Turnstone": {
+    "ko": "Ruddy Turnstone",
+    "en": "Ruddy Turnstone",
+    "display": "Ruddy Turnstone (Ruddy Turnstone)"
+  },
+  "Ruff": {
+    "ko": "Ruff",
+    "en": "Ruff",
+    "display": "Ruff (Ruff)"
+  },
+  "Rufous-bellied_Woodpecker": {
+    "ko": "Rufous-bellied Woodpecker",
+    "en": "Rufous-bellied Woodpecker",
+    "display": "Rufous-bellied Woodpecker (Rufous-bellied Woodpecker)"
+  },
+  "Rufous-tailed_Robin": {
+    "ko": "Rufous-tailed Robin",
+    "en": "Rufous-tailed Robin",
+    "display": "Rufous-tailed Robin (Rufous-tailed Robin)"
+  },
+  "Russet_Sparrow": {
+    "ko": "Russet Sparrow",
+    "en": "Russet Sparrow",
+    "display": "Russet Sparrow (Russet Sparrow)"
+  },
+  "Rustic_Bunting": {
+    "ko": "Rustic Bunting",
+    "en": "Rustic Bunting",
+    "display": "Rustic Bunting (Rustic Bunting)"
+  },
+  "Ryukyu_Minivet": {
+    "ko": "Ryukyu Minivet",
+    "en": "Ryukyu Minivet",
+    "display": "Ryukyu Minivet (Ryukyu Minivet)"
+  },
+  "Sakhalin_Leaf_Warbler": {
+    "ko": "Sakhalin Leaf Warbler",
+    "en": "Sakhalin Leaf Warbler",
+    "display": "Sakhalin Leaf Warbler (Sakhalin Leaf Warbler)"
+  },
+  "Sanderling": {
+    "ko": "Sanderling",
+    "en": "Sanderling",
+    "display": "Sanderling (Sanderling)"
+  },
+  "Sandhill_Crane": {
+    "ko": "Sandhill Crane",
+    "en": "Sandhill Crane",
+    "display": "Sandhill Crane (Sandhill Crane)"
+  },
+  "Saunders's_Gull": {
+    "ko": "Saunders's Gull",
+    "en": "Saunders's Gull",
+    "display": "Saunders's Gull (Saunders's Gull)"
+  },
+  "Savannah_Sparrow": {
+    "ko": "Savannah Sparrow",
+    "en": "Savannah Sparrow",
+    "display": "Savannah Sparrow (Savannah Sparrow)"
+  },
+  "Scaly-breasted_Munia": {
+    "ko": "Scaly-breasted Munia",
+    "en": "Scaly-breasted Munia",
+    "display": "Scaly-breasted Munia (Scaly-breasted Munia)"
+  },
+  "Scaly-sided_Merganser": {
+    "ko": "Scaly-sided Merganser",
+    "en": "Scaly-sided Merganser",
+    "display": "Scaly-sided Merganser (Scaly-sided Merganser)"
+  },
+  "Schrenck's_Bittern": {
+    "ko": "Schrenck's Bittern",
+    "en": "Schrenck's Bittern",
+    "display": "Schrenck's Bittern (Schrenck's Bittern)"
+  },
+  "Sharp-tailed_Sandpiper": {
+    "ko": "Sharp-tailed Sandpiper",
+    "en": "Sharp-tailed Sandpiper",
+    "display": "Sharp-tailed Sandpiper (Sharp-tailed Sandpiper)"
+  },
+  "Short-eared_Owl": {
+    "ko": "Short-eared Owl",
+    "en": "Short-eared Owl",
+    "display": "Short-eared Owl (Short-eared Owl)"
+  },
+  "Short-tailed_Shearwater": {
+    "ko": "Short-tailed Shearwater",
+    "en": "Short-tailed Shearwater",
+    "display": "Short-tailed Shearwater (Short-tailed Shearwater)"
+  },
+  "Siberian_Accentor": {
+    "ko": "Siberian Accentor",
+    "en": "Siberian Accentor",
+    "display": "Siberian Accentor (Siberian Accentor)"
+  },
+  "Siberian_Blue_Robin": {
+    "ko": "Siberian Blue Robin",
+    "en": "Siberian Blue Robin",
+    "display": "Siberian Blue Robin (Siberian Blue Robin)"
+  },
+  "Siberian_Crane": {
+    "ko": "Siberian Crane",
+    "en": "Siberian Crane",
+    "display": "Siberian Crane (Siberian Crane)"
+  },
+  "Siberian_House_Martin": {
+    "ko": "Siberian House Martin",
+    "en": "Siberian House Martin",
+    "display": "Siberian House Martin (Siberian House Martin)"
+  },
+  "Siberian_Pipit": {
+    "ko": "Siberian Pipit",
+    "en": "Siberian Pipit",
+    "display": "Siberian Pipit (Siberian Pipit)"
+  },
+  "Siberian_Rubythroat": {
+    "ko": "Siberian Rubythroat",
+    "en": "Siberian Rubythroat",
+    "display": "Siberian Rubythroat (Siberian Rubythroat)"
+  },
+  "Siberian_Sand-Plover": {
+    "ko": "Siberian Sand-Plover",
+    "en": "Siberian Sand-Plover",
+    "display": "Siberian Sand-Plover (Siberian Sand-Plover)"
+  },
+  "Siberian_Thrush": {
+    "ko": "Siberian Thrush",
+    "en": "Siberian Thrush",
+    "display": "Siberian Thrush (Siberian Thrush)"
+  },
+  "Slaty-backed_Gull": {
+    "ko": "Slaty-backed Gull",
+    "en": "Slaty-backed Gull",
+    "display": "Slaty-backed Gull (Slaty-backed Gull)"
+  },
+  "Smew": {
+    "ko": "Smew",
+    "en": "Smew",
+    "display": "Smew (Smew)"
+  },
+  "Snow_Bunting": {
+    "ko": "Snow Bunting",
+    "en": "Snow Bunting",
+    "display": "Snow Bunting (Snow Bunting)"
+  },
+  "Snow_Goose": {
+    "ko": "Snow Goose",
+    "en": "Snow Goose",
+    "display": "Snow Goose (Snow Goose)"
+  },
+  "Snow_×_Greater_White-fronted_Goose": {
+    "ko": "Snow × Greater White-fronted Goose",
+    "en": "Snow × Greater White-fronted Goose",
+    "display": "Snow × Greater White-fronted Goose (Snow × Greater White-fronted Goose)"
+  },
+  "Snowy-browed_Nuthatch": {
+    "ko": "Snowy-browed Nuthatch",
+    "en": "Snowy-browed Nuthatch",
+    "display": "Snowy-browed Nuthatch (Snowy-browed Nuthatch)"
+  },
+  "Solitary_Snipe": {
+    "ko": "Solitary Snipe",
+    "en": "Solitary Snipe",
+    "display": "Solitary Snipe (Solitary Snipe)"
+  },
+  "Spectacled_Guillemot": {
+    "ko": "Spectacled Guillemot",
+    "en": "Spectacled Guillemot",
+    "display": "Spectacled Guillemot (Spectacled Guillemot)"
+  },
+  "Spoon-billed_Sandpiper": {
+    "ko": "Spoon-billed Sandpiper",
+    "en": "Spoon-billed Sandpiper",
+    "display": "Spoon-billed Sandpiper (Spoon-billed Sandpiper)"
+  },
+  "Spotted_Dove": {
+    "ko": "Spotted Dove",
+    "en": "Spotted Dove",
+    "display": "Spotted Dove (Spotted Dove)"
+  },
+  "Spotted_Redshank": {
+    "ko": "Spotted Redshank",
+    "en": "Spotted Redshank",
+    "display": "Spotted Redshank (Spotted Redshank)"
+  },
+  "Stejneger's_Scoter": {
+    "ko": "Stejneger's Scoter",
+    "en": "Stejneger's Scoter",
+    "display": "Stejneger's Scoter (Stejneger's Scoter)"
+  },
+  "Steller's_Sea-Eagle": {
+    "ko": "Steller's Sea-Eagle",
+    "en": "Steller's Sea-Eagle",
+    "display": "Steller's Sea-Eagle (Steller's Sea-Eagle)"
+  },
+  "Steppe_Eagle": {
+    "ko": "Steppe Eagle",
+    "en": "Steppe Eagle",
+    "display": "Steppe Eagle (Steppe Eagle)"
+  },
+  "Streaked_Shearwater": {
+    "ko": "Streaked Shearwater",
+    "en": "Streaked Shearwater",
+    "display": "Streaked Shearwater (Streaked Shearwater)"
+  },
+  "Swan_Goose": {
+    "ko": "Swan Goose",
+    "en": "Swan Goose",
+    "display": "Swan Goose (Swan Goose)"
+  },
+  "Swinhoe's_Snipe": {
+    "ko": "Swinhoe's Snipe",
+    "en": "Swinhoe's Snipe",
+    "display": "Swinhoe's Snipe (Swinhoe's Snipe)"
+  },
+  "Swinhoe's_Storm-Petrel": {
+    "ko": "Swinhoe's Storm-Petrel",
+    "en": "Swinhoe's Storm-Petrel",
+    "display": "Swinhoe's Storm-Petrel (Swinhoe's Storm-Petrel)"
+  },
+  "Swinhoe's_White-eye": {
+    "ko": "Swinhoe's White-eye",
+    "en": "Swinhoe's White-eye",
+    "display": "Swinhoe's White-eye (Swinhoe's White-eye)"
+  },
+  "Taiga_Bean_Goose": {
+    "ko": "Taiga Bean Goose",
+    "en": "Taiga Bean Goose",
+    "display": "Taiga Bean Goose (Taiga Bean Goose)"
+  },
+  "Taiga_Flycatcher": {
+    "ko": "Taiga Flycatcher",
+    "en": "Taiga Flycatcher",
+    "display": "Taiga Flycatcher (Taiga Flycatcher)"
+  },
+  "Temminck's_Stint": {
+    "ko": "Temminck's Stint",
+    "en": "Temminck's Stint",
+    "display": "Temminck's Stint (Temminck's Stint)"
+  },
+  "Terek_Sandpiper": {
+    "ko": "Terek Sandpiper",
+    "en": "Terek Sandpiper",
+    "display": "Terek Sandpiper (Terek Sandpiper)"
+  },
+  "Thick-billed_Murre": {
+    "ko": "Thick-billed Murre",
+    "en": "Thick-billed Murre",
+    "display": "Thick-billed Murre (Thick-billed Murre)"
+  },
+  "Thick-billed_Warbler": {
+    "ko": "Thick-billed Warbler",
+    "en": "Thick-billed Warbler",
+    "display": "Thick-billed Warbler (Thick-billed Warbler)"
+  },
+  "Tiger_Shrike": {
+    "ko": "Tiger Shrike",
+    "en": "Tiger Shrike",
+    "display": "Tiger Shrike (Tiger Shrike)"
+  },
+  "Tree_Pipit": {
+    "ko": "Tree Pipit",
+    "en": "Tree Pipit",
+    "display": "Tree Pipit (Tree Pipit)"
+  },
+  "Tristram's_Bunting": {
+    "ko": "Tristram's Bunting",
+    "en": "Tristram's Bunting",
+    "display": "Tristram's Bunting (Tristram's Bunting)"
+  },
+  "Tufted_Duck": {
+    "ko": "Tufted Duck",
+    "en": "Tufted Duck",
+    "display": "Tufted Duck (Tufted Duck)"
+  },
+  "Tufted_Duck_×_Greater_Scaup": {
+    "ko": "Tufted Duck × Greater Scaup",
+    "en": "Tufted Duck × Greater Scaup",
+    "display": "Tufted Duck × Greater Scaup (Tufted Duck × Greater Scaup)"
+  },
+  "Tundra_Bean_Goose": {
+    "ko": "Tundra Bean Goose",
+    "en": "Tundra Bean Goose",
+    "display": "Tundra Bean Goose (Tundra Bean Goose)"
+  },
+  "Tundra_Swan": {
+    "ko": "Tundra Swan",
+    "en": "Tundra Swan",
+    "display": "Tundra Swan (Tundra Swan)"
+  },
+  "Two-barred_Warbler": {
+    "ko": "Two-barred Warbler",
+    "en": "Two-barred Warbler",
+    "display": "Two-barred Warbler (Two-barred Warbler)"
+  },
+  "Upland_Buzzard": {
+    "ko": "Upland Buzzard",
+    "en": "Upland Buzzard",
+    "display": "Upland Buzzard (Upland Buzzard)"
+  },
+  "Ural_Owl": {
+    "ko": "Ural Owl",
+    "en": "Ural Owl",
+    "display": "Ural Owl (Ural Owl)"
+  },
+  "Varied_Tit": {
+    "ko": "Varied Tit",
+    "en": "Varied Tit",
+    "display": "Varied Tit (Varied Tit)"
+  },
+  "Vega_Gull": {
+    "ko": "Vega Gull",
+    "en": "Vega Gull",
+    "display": "Vega Gull (Vega Gull)"
+  },
+  "Velvet_Scoter": {
+    "ko": "Velvet Scoter",
+    "en": "Velvet Scoter",
+    "display": "Velvet Scoter (Velvet Scoter)"
+  },
+  "Vinous-throated_Parrotbill": {
+    "ko": "Vinous-throated Parrotbill",
+    "en": "Vinous-throated Parrotbill",
+    "display": "Vinous-throated Parrotbill (Vinous-throated Parrotbill)"
+  },
+  "Warbling_White-eye": {
+    "ko": "Warbling White-eye",
+    "en": "Warbling White-eye",
+    "display": "Warbling White-eye (Warbling White-eye)"
+  },
+  "Water_Pipit": {
+    "ko": "Water Pipit",
+    "en": "Water Pipit",
+    "display": "Water Pipit (Water Pipit)"
+  },
+  "Water_Rail": {
+    "ko": "Water Rail",
+    "en": "Water Rail",
+    "display": "Water Rail (Water Rail)"
+  },
+  "Watercock": {
+    "ko": "Watercock",
+    "en": "Watercock",
+    "display": "Watercock (Watercock)"
+  },
+  "Western_Yellow_Wagtail": {
+    "ko": "Western Yellow Wagtail",
+    "en": "Western Yellow Wagtail",
+    "display": "Western Yellow Wagtail (Western Yellow Wagtail)"
+  },
+  "Whiskered_Tern": {
+    "ko": "Whiskered Tern",
+    "en": "Whiskered Tern",
+    "display": "Whiskered Tern (Whiskered Tern)"
+  },
+  "White's_Thrush": {
+    "ko": "White's Thrush",
+    "en": "White's Thrush",
+    "display": "White's Thrush (White's Thrush)"
+  },
+  "White-backed_Woodpecker": {
+    "ko": "White-backed Woodpecker",
+    "en": "White-backed Woodpecker",
+    "display": "White-backed Woodpecker (White-backed Woodpecker)"
+  },
+  "White-bellied_Green-Pigeon": {
+    "ko": "White-bellied Green-Pigeon",
+    "en": "White-bellied Green-Pigeon",
+    "display": "White-bellied Green-Pigeon (White-bellied Green-Pigeon)"
+  },
+  "White-breasted_Waterhen": {
+    "ko": "White-breasted Waterhen",
+    "en": "White-breasted Waterhen",
+    "display": "White-breasted Waterhen (White-breasted Waterhen)"
+  },
+  "White-cheeked_Starling": {
+    "ko": "White-cheeked Starling",
+    "en": "White-cheeked Starling",
+    "display": "White-cheeked Starling (White-cheeked Starling)"
+  },
+  "White-naped_Crane": {
+    "ko": "White-naped Crane",
+    "en": "White-naped Crane",
+    "display": "White-naped Crane (White-naped Crane)"
+  },
+  "White-shouldered_Starling": {
+    "ko": "White-shouldered Starling",
+    "en": "White-shouldered Starling",
+    "display": "White-shouldered Starling (White-shouldered Starling)"
+  },
+  "White-tailed_Eagle": {
+    "ko": "White-tailed Eagle",
+    "en": "White-tailed Eagle",
+    "display": "White-tailed Eagle (White-tailed Eagle)"
+  },
+  "White-throated_Needletail": {
+    "ko": "White-throated Needletail",
+    "en": "White-throated Needletail",
+    "display": "White-throated Needletail (White-throated Needletail)"
+  },
+  "White-throated_Rock-Thrush": {
+    "ko": "White-throated Rock-Thrush",
+    "en": "White-throated Rock-Thrush",
+    "display": "White-throated Rock-Thrush (White-throated Rock-Thrush)"
+  },
+  "White-winged_Tern": {
+    "ko": "White-winged Tern",
+    "en": "White-winged Tern",
+    "display": "White-winged Tern (White-winged Tern)"
+  },
+  "White_Wagtail": {
+    "ko": "White Wagtail",
+    "en": "White Wagtail",
+    "display": "White Wagtail (White Wagtail)"
+  },
+  "Whooper_Swan": {
+    "ko": "Whooper Swan",
+    "en": "Whooper Swan",
+    "display": "Whooper Swan (Whooper Swan)"
+  },
+  "Wood_Sandpiper": {
+    "ko": "Wood Sandpiper",
+    "en": "Wood Sandpiper",
+    "display": "Wood Sandpiper (Wood Sandpiper)"
+  },
+  "Yellow-bellied_Tit": {
+    "ko": "Yellow-bellied Tit",
+    "en": "Yellow-bellied Tit",
+    "display": "Yellow-bellied Tit (Yellow-bellied Tit)"
+  },
+  "Yellow-billed_Grosbeak": {
+    "ko": "Yellow-billed Grosbeak",
+    "en": "Yellow-billed Grosbeak",
+    "display": "Yellow-billed Grosbeak (Yellow-billed Grosbeak)"
+  },
+  "Yellow-billed_Loon": {
+    "ko": "Yellow-billed Loon",
+    "en": "Yellow-billed Loon",
+    "display": "Yellow-billed Loon (Yellow-billed Loon)"
+  },
+  "Yellow-breasted_Bunting": {
+    "ko": "Yellow-breasted Bunting",
+    "en": "Yellow-breasted Bunting",
+    "display": "Yellow-breasted Bunting (Yellow-breasted Bunting)"
+  },
+  "Yellow-browed_Bunting": {
+    "ko": "Yellow-browed Bunting",
+    "en": "Yellow-browed Bunting",
+    "display": "Yellow-browed Bunting (Yellow-browed Bunting)"
+  },
+  "Yellow-browed_Warbler": {
+    "ko": "Yellow-browed Warbler",
+    "en": "Yellow-browed Warbler",
+    "display": "Yellow-browed Warbler (Yellow-browed Warbler)"
+  },
+  "Yellow-rumped_Flycatcher": {
+    "ko": "Yellow-rumped Flycatcher",
+    "en": "Yellow-rumped Flycatcher",
+    "display": "Yellow-rumped Flycatcher (Yellow-rumped Flycatcher)"
+  },
+  "Yellow-throated_Bunting": {
+    "ko": "Yellow-throated Bunting",
+    "en": "Yellow-throated Bunting",
+    "display": "Yellow-throated Bunting (Yellow-throated Bunting)"
+  },
+  "Yellow_Bittern": {
+    "ko": "Yellow Bittern",
+    "en": "Yellow Bittern",
+    "display": "Yellow Bittern (Yellow Bittern)"
+  },
+  "Yellow_Bunting": {
+    "ko": "Yellow Bunting",
+    "en": "Yellow Bunting",
+    "display": "Yellow Bunting (Yellow Bunting)"
+  },
+  "Zitting_Cisticola": {
+    "ko": "Zitting Cisticola",
+    "en": "Zitting Cisticola",
+    "display": "Zitting Cisticola (Zitting Cisticola)"
+  }
+}
